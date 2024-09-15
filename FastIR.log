@@ -1,0 +1,1525 @@
+2024-09-15 16:16:51,971 - FastIR - INFO - Processing evtx : Windows PowerShell
+2024-09-15 16:16:52,315 - FastIR - INFO - Processing evtx : Visual Studio
+2024-09-15 16:16:52,332 - FastIR - INFO - Processing evtx : System
+2024-09-15 16:16:52,723 - FastIR - INFO - Processing evtx : Security
+2024-09-15 16:16:53,082 - FastIR - INFO - Processing evtx : OAlerts
+2024-09-15 16:16:53,144 - FastIR - INFO - Processing evtx : Key Management Service
+2024-09-15 16:16:53,144 - FastIR - INFO - Processing evtx : Internet Explorer
+2024-09-15 16:16:53,161 - FastIR - INFO - Processing evtx : HardwareEvents
+2024-09-15 16:16:53,177 - FastIR - INFO - Processing evtx : Application
+2024-09-15 16:16:53,520 - FastIR - INFO - Processing evtx : WordChannel
+2024-09-15 16:16:53,691 - FastIR - INFO - Processing evtx : WMPSyncEngine
+2024-09-15 16:16:53,707 - FastIR - INFO - Processing evtx : WMPSetup
+2024-09-15 16:16:53,723 - FastIR - INFO - Processing evtx : WINDOWS_wmvdecod_CHANNEL
+2024-09-15 16:16:53,739 - FastIR - INFO - Processing evtx : WINDOWS_WMPHOTO_CHANNEL
+2024-09-15 16:16:53,755 - FastIR - INFO - Processing evtx : WINDOWS_VC1ENC_CHANNEL
+2024-09-15 16:16:53,755 - FastIR - INFO - Processing evtx : WINDOWS_MSMPEG2VDEC_CHANNEL
+2024-09-15 16:16:53,770 - FastIR - INFO - Processing evtx : WINDOWS_MSMPEG2ADEC_CHANNEL
+2024-09-15 16:16:53,786 - FastIR - INFO - Processing evtx : WINDOWS_MP4SDECD_CHANNEL
+2024-09-15 16:16:53,802 - FastIR - INFO - Processing evtx : WINDOWS_MFH264Enc_CHANNEL
+2024-09-15 16:16:53,802 - FastIR - INFO - Processing evtx : WINDOWS_KS_CHANNEL
+2024-09-15 16:16:53,816 - FastIR - INFO - Processing evtx : Windows Networking Vpn Plugin Platform/OperationalVerbose
+2024-09-15 16:16:53,838 - FastIR - INFO - Processing evtx : Windows Networking Vpn Plugin Platform/Operational
+2024-09-15 16:16:53,848 - FastIR - INFO - Processing evtx : UIManager_Channel
+2024-09-15 16:16:53,848 - FastIR - INFO - Processing evtx : Uac/Debug
+2024-09-15 16:16:53,864 - FastIR - INFO - Processing evtx : TimeBroker
+2024-09-15 16:16:53,880 - FastIR - INFO - Processing evtx : TabletPC_InputPanel_Channel/IHM
+2024-09-15 16:16:53,894 - FastIR - INFO - Processing evtx : TabletPC_InputPanel_Channel
+2024-09-15 16:16:53,911 - FastIR - INFO - Processing evtx : SystemEventsBroker
+2024-09-15 16:16:53,911 - FastIR - INFO - Processing evtx : SMSApi
+2024-09-15 16:16:53,927 - FastIR - INFO - Processing evtx : SmbWmiAnalytic
+2024-09-15 16:16:53,941 - FastIR - INFO - Processing evtx : Setup
+2024-09-15 16:16:53,957 - FastIR - INFO - Processing evtx : RTWorkQueueTheading
+2024-09-15 16:16:53,957 - FastIR - INFO - Processing evtx : RTWorkQueueExtended
+2024-09-15 16:16:53,973 - FastIR - INFO - Processing evtx : PlayReadyPerformanceChannel
+2024-09-15 16:16:53,989 - FastIR - INFO - Processing evtx : Physical_Keyboard_Manager_Channel
+2024-09-15 16:16:54,005 - FastIR - INFO - Processing evtx : OSK_SoftKeyboard_Channel
+2024-09-15 16:16:54,005 - FastIR - INFO - Processing evtx : OpenSSH/Operational
+2024-09-15 16:16:54,019 - FastIR - INFO - Processing evtx : OpenSSH/Debug
+2024-09-15 16:16:54,036 - FastIR - INFO - Processing evtx : OpenSSH/Admin
+2024-09-15 16:16:54,052 - FastIR - INFO - Processing evtx : OfficeDebugChannel
+2024-09-15 16:16:54,066 - FastIR - INFO - Processing evtx : OfficeChannel
+2024-09-15 16:16:54,066 - FastIR - INFO - Processing evtx : NIS-Driver-WFP/Diagnostic
+2024-09-15 16:16:54,082 - FastIR - INFO - Processing evtx : Network Isolation Operational
+2024-09-15 16:16:54,098 - FastIR - INFO - Processing evtx : Navigator
+2024-09-15 16:16:54,114 - FastIR - INFO - Processing evtx : muxencode
+2024-09-15 16:16:54,114 - FastIR - INFO - Processing evtx : Microsoft-WindowsPhone-Net-Cellcore-CellularAPI/Debug
+2024-09-15 16:16:54,130 - FastIR - INFO - Processing evtx : Microsoft-WindowsPhone-Net-Cellcore-CellManager/Debug
+2024-09-15 16:16:54,144 - FastIR - INFO - Processing evtx : Microsoft-WindowsPhone-LocationServiceProvider/Debug
+2024-09-15 16:16:54,161 - FastIR - INFO - Processing evtx : Microsoft-WindowsPhone-Connectivity-WiFiConnSvc-Channel
+2024-09-15 16:16:54,161 - FastIR - INFO - Processing evtx : Microsoft-Windows-ZTraceMaps/Operational
+2024-09-15 16:16:54,177 - FastIR - INFO - Processing evtx : Microsoft-Windows-ZTraceMaps/Function
+2024-09-15 16:16:54,191 - FastIR - INFO - Processing evtx : Microsoft-Windows-XAudio2/Performance
+2024-09-15 16:16:54,207 - FastIR - INFO - Processing evtx : Microsoft-Windows-XAudio2/Debug
+2024-09-15 16:16:54,223 - FastIR - INFO - Processing evtx : Microsoft-Windows-XAML/Default
+2024-09-15 16:16:54,223 - FastIR - INFO - Processing evtx : Microsoft-Windows-XAML-Diagnostics/Default
+2024-09-15 16:16:54,246 - FastIR - INFO - Processing evtx : Microsoft-Windows-WWAN-SVC-Events/Operational
+2024-09-15 16:16:54,257 - FastIR - INFO - Processing evtx : Microsoft-Windows-WWAN-SVC-Events/Diagnostic
+2024-09-15 16:16:54,257 - FastIR - INFO - Processing evtx : Microsoft-Windows-WWAN-NDISUIO-EVENTS/Diagnostic
+2024-09-15 16:16:54,273 - FastIR - INFO - Processing evtx : Microsoft-Windows-WWAN-MM-Events/Diagnostic
+2024-09-15 16:16:54,289 - FastIR - INFO - Processing evtx : Microsoft-Windows-WWAN-MediaManager/Diagnostic
+2024-09-15 16:16:54,305 - FastIR - INFO - Processing evtx : Microsoft-Windows-WWAN-CFE/Diagnostic
+2024-09-15 16:16:54,305 - FastIR - INFO - Processing evtx : Microsoft-Windows-WUSA/Debug
+2024-09-15 16:16:54,319 - FastIR - INFO - Processing evtx : Microsoft-Windows-WSC-SRV/Diagnostic
+2024-09-15 16:16:54,335 - FastIR - INFO - Processing evtx : Microsoft-Windows-WPD-MTPUS/Analytic
+2024-09-15 16:16:54,351 - FastIR - INFO - Processing evtx : Microsoft-Windows-WPD-MTPIP/Analytic
+2024-09-15 16:16:54,367 - FastIR - INFO - Processing evtx : Microsoft-Windows-WPD-MTPClassDriver/Operational
+2024-09-15 16:16:54,398 - FastIR - INFO - Processing evtx : Microsoft-Windows-WPD-MTPClassDriver/Analytic
+2024-09-15 16:16:54,398 - FastIR - INFO - Processing evtx : Microsoft-Windows-WPD-MTPBT/Analytic
+2024-09-15 16:16:54,414 - FastIR - INFO - Processing evtx : Microsoft-Windows-WPD-CompositeClassDriver/Operational
+2024-09-15 16:16:54,430 - FastIR - INFO - Processing evtx : Microsoft-Windows-WPD-CompositeClassDriver/Analytic
+2024-09-15 16:16:54,446 - FastIR - INFO - Processing evtx : Microsoft-Windows-WPD-ClassInstaller/Operational
+2024-09-15 16:16:54,460 - FastIR - INFO - Processing evtx : Microsoft-Windows-WPD-ClassInstaller/Analytic
+2024-09-15 16:16:54,460 - FastIR - INFO - Processing evtx : Microsoft-Windows-WPD-API/Analytic
+2024-09-15 16:16:54,476 - FastIR - INFO - Processing evtx : Microsoft-Windows-Workplace Join/Admin
+2024-09-15 16:16:54,493 - FastIR - INFO - Processing evtx : Microsoft-Windows-WorkFolders/WHC
+2024-09-15 16:16:54,507 - FastIR - INFO - Processing evtx : Microsoft-Windows-WorkFolders/Operational
+2024-09-15 16:16:54,507 - FastIR - INFO - Processing evtx : Microsoft-Windows-WorkFolders/Debug
+2024-09-15 16:16:54,523 - FastIR - INFO - Processing evtx : Microsoft-Windows-WorkFolders/Analytic
+2024-09-15 16:16:54,539 - FastIR - INFO - Processing evtx : Microsoft-Windows-Wordpad/Diagnostic
+2024-09-15 16:16:54,555 - FastIR - INFO - Processing evtx : Microsoft-Windows-Wordpad/Debug
+2024-09-15 16:16:54,571 - FastIR - INFO - Processing evtx : Microsoft-Windows-Wordpad/Admin
+2024-09-15 16:16:54,571 - FastIR - INFO - Processing evtx : Microsoft-Windows-WMPNSSUI/Diagnostic
+2024-09-15 16:16:54,585 - FastIR - INFO - Processing evtx : Microsoft-Windows-WMPNSS-Service/Operational
+2024-09-15 16:16:54,601 - FastIR - INFO - Processing evtx : Microsoft-Windows-WMPNSS-Service/Diagnostic
+2024-09-15 16:16:54,618 - FastIR - INFO - Processing evtx : Microsoft-Windows-WMPNSS-PublicAPI/Diagnostic
+2024-09-15 16:16:54,726 - FastIR - INFO - Processing evtx : Microsoft-Windows-WMPDMCUI/Diagnostic
+2024-09-15 16:16:54,726 - FastIR - INFO - Processing evtx : Microsoft-Windows-WMI-Activity/Trace
+2024-09-15 16:16:54,743 - FastIR - INFO - Processing evtx : Microsoft-Windows-WMI-Activity/Operational
+2024-09-15 16:16:54,773 - FastIR - INFO - Processing evtx : Microsoft-Windows-WMI-Activity/Debug
+2024-09-15 16:16:54,773 - FastIR - INFO - Processing evtx : Microsoft-Windows-wmbclass/Trace
+2024-09-15 16:16:54,789 - FastIR - INFO - Processing evtx : Microsoft-Windows-wmbclass/Analytic
+2024-09-15 16:16:54,805 - FastIR - INFO - Processing evtx : Microsoft-Windows-WlanDlg/Analytic
+2024-09-15 16:16:54,821 - FastIR - INFO - Processing evtx : Microsoft-Windows-WLANConnectionFlow/Diagnostic
+2024-09-15 16:16:54,835 - FastIR - INFO - Processing evtx : Microsoft-Windows-WLAN-MediaManager/Diagnostic
+2024-09-15 16:16:54,835 - FastIR - INFO - Processing evtx : Microsoft-Windows-WLAN-Driver/Analytic
+2024-09-15 16:16:54,851 - FastIR - INFO - Processing evtx : Microsoft-Windows-WLAN-AutoConfig/Operational
+2024-09-15 16:16:54,882 - FastIR - INFO - Processing evtx : Microsoft-Windows-WLAN-Autoconfig/Diagnostic
+2024-09-15 16:16:54,926 - FastIR - INFO - Processing evtx : Microsoft-Windows-Wired-AutoConfig/Operational
+2024-09-15 16:16:54,946 - FastIR - INFO - Processing evtx : Microsoft-Windows-Wired-AutoConfig/Diagnostic
+2024-09-15 16:16:54,961 - FastIR - INFO - Processing evtx : Microsoft-Windows-WinURLMon/Analytic
+2024-09-15 16:16:54,961 - FastIR - INFO - Processing evtx : Microsoft-Windows-Winsrv/Analytic
+2024-09-15 16:16:54,976 - FastIR - INFO - Processing evtx : Microsoft-Windows-Winsock-WS2HELP/Operational
+2024-09-15 16:16:54,993 - FastIR - INFO - Processing evtx : Microsoft-Windows-Winsock-NameResolution/Operational
+2024-09-15 16:16:55,009 - FastIR - INFO - Processing evtx : Microsoft-Windows-Winsock-AFD/Operational
+2024-09-15 16:16:55,009 - FastIR - INFO - Processing evtx : Microsoft-Windows-WinRM/Operational
+2024-09-15 16:16:55,039 - FastIR - INFO - Processing evtx : Microsoft-Windows-WinRM/Debug
+2024-09-15 16:16:55,055 - FastIR - INFO - Processing evtx : Microsoft-Windows-WinRM/Analytic
+2024-09-15 16:16:55,071 - FastIR - INFO - Processing evtx : Microsoft-Windows-WinNat/Trace
+2024-09-15 16:16:55,086 - FastIR - INFO - Processing evtx : Microsoft-Windows-WinNat/Oper
+2024-09-15 16:16:55,101 - FastIR - INFO - Processing evtx : Microsoft-Windows-WinML/Analytic
+2024-09-15 16:16:55,118 - FastIR - INFO - Processing evtx : Microsoft-Windows-WinMDE/MDE
+2024-09-15 16:16:55,118 - FastIR - INFO - Processing evtx : Microsoft-Windows-Winlogon/Operational
+2024-09-15 16:16:55,148 - FastIR - INFO - Processing evtx : Microsoft-Windows-Winlogon/Diagnostic
+2024-09-15 16:16:55,164 - FastIR - INFO - Processing evtx : Microsoft-Windows-Wininit/Diagnostic
+2024-09-15 16:16:55,180 - FastIR - INFO - Processing evtx : Microsoft-Windows-WinINet/WebSocket
+2024-09-15 16:16:55,196 - FastIR - INFO - Processing evtx : Microsoft-Windows-WinINet/UsageLog
+2024-09-15 16:16:55,211 - FastIR - INFO - Processing evtx : Microsoft-Windows-WinINet/Pca
+2024-09-15 16:16:55,211 - FastIR - INFO - Processing evtx : Microsoft-Windows-WinINet/Operational
+2024-09-15 16:16:55,226 - FastIR - INFO - Processing evtx : Microsoft-Windows-WinINet/Analytic
+2024-09-15 16:16:55,243 - FastIR - INFO - Processing evtx : Microsoft-Windows-WinINet-Config/ProxyConfigChanged
+2024-09-15 16:16:55,259 - FastIR - INFO - Processing evtx : Microsoft-Windows-WinINet-Capture/Analytic
+2024-09-15 16:16:55,259 - FastIR - INFO - Processing evtx : Microsoft-Windows-WinHttp/Operational
+2024-09-15 16:16:55,273 - FastIR - INFO - Processing evtx : Microsoft-Windows-WinHttp/Diagnostic
+2024-09-15 16:16:55,289 - FastIR - INFO - Processing evtx : Microsoft-Windows-WinHttp-Pca
+2024-09-15 16:16:55,306 - FastIR - INFO - Processing evtx : Microsoft-Windows-WinHTTP-NDF/Diagnostic
+2024-09-15 16:16:55,315 - FastIR - INFO - Processing evtx : Microsoft-Windows-WindowsUpdateClient/Operational
+2024-09-15 16:16:55,352 - FastIR - INFO - Processing evtx : Microsoft-Windows-WindowsUpdateClient/Analytic
+2024-09-15 16:16:55,352 - FastIR - INFO - Processing evtx : Microsoft-Windows-WindowsUIImmersive/Operational
+2024-09-15 16:16:55,368 - FastIR - INFO - Processing evtx : Microsoft-Windows-WindowsUIImmersive/Diagnostic
+2024-09-15 16:16:55,384 - FastIR - INFO - Processing evtx : Microsoft-Windows-WindowsSystemAssessmentTool/Tracing
+2024-09-15 16:16:55,400 - FastIR - INFO - Processing evtx : Microsoft-Windows-WindowsSystemAssessmentTool/Operational
+2024-09-15 16:16:55,414 - FastIR - INFO - Processing evtx : Microsoft-Windows-WindowsColorSystem/Operational
+2024-09-15 16:16:55,430 - FastIR - INFO - Processing evtx : Microsoft-Windows-WindowsColorSystem/Debug
+2024-09-15 16:16:55,446 - FastIR - INFO - Processing evtx : Microsoft-Windows-WindowsBackup/ActionCenter
+2024-09-15 16:16:55,446 - FastIR - INFO - Processing evtx : Microsoft-Windows-Windows Firewall With Advanced Security/FirewallVerbose
+2024-09-15 16:16:55,461 - FastIR - INFO - Processing evtx : Microsoft-Windows-Windows Firewall With Advanced Security/FirewallDiagnostics
+2024-09-15 16:16:55,477 - FastIR - INFO - Processing evtx : Microsoft-Windows-Windows Firewall With Advanced Security/Firewall
+2024-09-15 16:16:55,509 - FastIR - INFO - Processing evtx : Microsoft-Windows-Windows Firewall With Advanced Security/ConnectionSecurityVerbose
+2024-09-15 16:16:55,509 - FastIR - INFO - Processing evtx : Microsoft-Windows-Windows Firewall With Advanced Security/ConnectionSecurity
+2024-09-15 16:16:55,525 - FastIR - INFO - Processing evtx : Microsoft-Windows-Windows Defender/WHC
+2024-09-15 16:16:55,539 - FastIR - INFO - Processing evtx : Microsoft-Windows-Windows Defender/Operational
+2024-09-15 16:16:55,654 - FastIR - INFO - Processing evtx : Microsoft-Windows-Windeploy/Analytic
+2024-09-15 16:16:55,670 - FastIR - INFO - Processing evtx : Microsoft-Windows-Win32k/UIPI
+2024-09-15 16:16:55,686 - FastIR - INFO - Processing evtx : Microsoft-Windows-Win32k/Tracing
+2024-09-15 16:16:55,701 - FastIR - INFO - Processing evtx : Microsoft-Windows-Win32k/Render
+2024-09-15 16:16:55,701 - FastIR - INFO - Processing evtx : Microsoft-Windows-Win32k/Power
+2024-09-15 16:16:55,717 - FastIR - INFO - Processing evtx : Microsoft-Windows-Win32k/Operational
+2024-09-15 16:16:55,733 - FastIR - INFO - Processing evtx : Microsoft-Windows-Win32k/Messages
+2024-09-15 16:16:55,749 - FastIR - INFO - Processing evtx : Microsoft-Windows-Win32k/Contention
+2024-09-15 16:16:55,763 - FastIR - INFO - Processing evtx : Microsoft-Windows-Win32k/Concurrency
+2024-09-15 16:16:55,763 - FastIR - INFO - Processing evtx : Microsoft-Windows-WiFiDisplay/Analytic
+2024-09-15 16:16:55,788 - FastIR - INFO - Processing evtx : Microsoft-Windows-WFP/Operational
+2024-09-15 16:16:55,808 - FastIR - INFO - Processing evtx : Microsoft-Windows-WFP/Analytic
+2024-09-15 16:16:55,819 - FastIR - INFO - Processing evtx : Microsoft-Windows-WerKernel/Operational
+2024-09-15 16:16:55,835 - FastIR - INFO - Processing evtx : Microsoft-Windows-WER-PayloadHealth/Operational
+2024-09-15 16:16:55,851 - FastIR - INFO - Processing evtx : Microsoft-Windows-WER-Diag/Operational
+2024-09-15 16:16:55,867 - FastIR - INFO - Processing evtx : Microsoft-Windows-WEPHOSTSVC/Operational
+2024-09-15 16:16:55,881 - FastIR - INFO - Processing evtx : Microsoft-Windows-Websocket-Protocol-Component/Tracing
+2024-09-15 16:16:55,881 - FastIR - INFO - Processing evtx : Microsoft-Windows-WebServices/Tracing
+2024-09-15 16:16:55,898 - FastIR - INFO - Processing evtx : Microsoft-Windows-WebPlatStorage-Server
+2024-09-15 16:16:55,914 - FastIR - INFO - Processing evtx : Microsoft-Windows-WebIO/Operational
+2024-09-15 16:16:55,928 - FastIR - INFO - Processing evtx : Microsoft-Windows-WebIO/Diagnostic
+2024-09-15 16:16:55,940 - FastIR - INFO - Processing evtx : Microsoft-Windows-WebIO-NDF/Diagnostic
+2024-09-15 16:16:55,953 - FastIR - INFO - Processing evtx : Microsoft-Windows-WebDeploy/Warning
+2024-09-15 16:16:55,964 - FastIR - INFO - Processing evtx : Microsoft-Windows-WebDeploy/Verbose
+2024-09-15 16:16:55,980 - FastIR - INFO - Processing evtx : Microsoft-Windows-WebDeploy/Info
+2024-09-15 16:16:55,996 - FastIR - INFO - Processing evtx : Microsoft-Windows-WebDeploy/Error
+2024-09-15 16:16:56,013 - FastIR - INFO - Processing evtx : Microsoft-Windows-WebDeploy/Debug
+2024-09-15 16:16:56,025 - FastIR - INFO - Processing evtx : Microsoft-Windows-WebDeploy/ConnectionInfo
+2024-09-15 16:16:56,032 - FastIR - INFO - Processing evtx : Microsoft-Windows-WebcamProvider/Analytic
+2024-09-15 16:16:56,061 - FastIR - INFO - Processing evtx : Microsoft-Windows-WebAuthN/Operational
+2024-09-15 16:16:56,092 - FastIR - INFO - Processing evtx : Microsoft-Windows-WebAuth/Operational
+2024-09-15 16:16:56,092 - FastIR - INFO - Processing evtx : Microsoft-Windows-WDAG-PolicyEvaluator-GP/Operational
+2024-09-15 16:16:56,108 - FastIR - INFO - Processing evtx : Microsoft-Windows-WDAG-PolicyEvaluator-CSP/Operational
+2024-09-15 16:16:56,122 - FastIR - INFO - Processing evtx : Microsoft-Windows-WCNWiz/Analytic
+2024-09-15 16:16:56,138 - FastIR - INFO - Processing evtx : Microsoft-Windows-WCN-Config-Registrar/Diagnostic
+2024-09-15 16:16:56,154 - FastIR - INFO - Processing evtx : Microsoft-Windows-Wcmsvc/Operational
+2024-09-15 16:16:56,186 - FastIR - INFO - Processing evtx : Microsoft-Windows-Wcmsvc/Diagnostic
+2024-09-15 16:16:56,186 - FastIR - INFO - Processing evtx : Microsoft-Windows-Watchdog-Events/WdLog
+2024-09-15 16:16:56,200 - FastIR - INFO - Processing evtx : Microsoft-Windows-WABSyncProvider/Analytic
+2024-09-15 16:16:56,217 - FastIR - INFO - Processing evtx : Microsoft-Windows-VWiFi/Diagnostic
+2024-09-15 16:16:56,233 - FastIR - INFO - Processing evtx : Microsoft-Windows-VPN/Operational
+2024-09-15 16:16:56,247 - FastIR - INFO - Processing evtx : Microsoft-Windows-VPN-Client/Operational
+2024-09-15 16:16:56,279 - FastIR - INFO - Processing evtx : Microsoft-Windows-VolumeSnapshot-Driver/Operational
+2024-09-15 16:16:56,325 - FastIR - INFO - Processing evtx : Microsoft-Windows-VolumeSnapshot-Driver/Analytic
+2024-09-15 16:16:56,342 - FastIR - INFO - Processing evtx : Microsoft-Windows-VolumeControl/Performance
+2024-09-15 16:16:56,358 - FastIR - INFO - Processing evtx : Microsoft-Windows-Volume/Diagnostic
+2024-09-15 16:16:56,358 - FastIR - INFO - Processing evtx : Microsoft-Windows-VIRTDISK-Analytic
+2024-09-15 16:16:56,372 - FastIR - INFO - Processing evtx : Microsoft-Windows-VHDMP-Operational
+2024-09-15 16:16:56,404 - FastIR - INFO - Processing evtx : Microsoft-Windows-VHDMP-Analytic
+2024-09-15 16:16:56,420 - FastIR - INFO - Processing evtx : Microsoft-Windows-VerifyHardwareSecurity/Operational
+2024-09-15 16:16:56,436 - FastIR - INFO - Processing evtx : Microsoft-Windows-VerifyHardwareSecurity/Admin
+2024-09-15 16:16:56,450 - FastIR - INFO - Processing evtx : Microsoft-Windows-VDRVROOT/Operational
+2024-09-15 16:16:56,450 - FastIR - INFO - Processing evtx : Microsoft-Windows-VAN/Diagnostic
+2024-09-15 16:16:56,467 - FastIR - INFO - Processing evtx : Microsoft-Windows-UxTheme/Diagnostic
+2024-09-15 16:16:56,483 - FastIR - INFO - Processing evtx : Microsoft-Windows-UxInit/Diagnostic
+2024-09-15 16:16:56,497 - FastIR - INFO - Processing evtx : Microsoft-Windows-UserSettingsBackup-Orchestrator/Operational
+2024-09-15 16:16:56,513 - FastIR - INFO - Processing evtx : Microsoft-Windows-UserSettingsBackup-EarlyDownloader/Operational
+2024-09-15 16:16:56,513 - FastIR - INFO - Processing evtx : Microsoft-Windows-UserSettingsBackup-BackupUnitProcessor/Operational
+2024-09-15 16:16:56,529 - FastIR - INFO - Processing evtx : Microsoft-Windows-UserPnp/SchedulerOperations
+2024-09-15 16:16:56,548 - FastIR - INFO - Processing evtx : Microsoft-Windows-UserPnp/Performance
+2024-09-15 16:16:56,553 - FastIR - INFO - Processing evtx : Microsoft-Windows-UserPnp/DeviceMetadata/Debug
+2024-09-15 16:16:56,561 - FastIR - INFO - Processing evtx : Microsoft-Windows-UserPnp/DeviceInstall
+2024-09-15 16:16:56,576 - FastIR - INFO - Processing evtx : Microsoft-Windows-UserPnp/ActionCenter
+2024-09-15 16:16:56,592 - FastIR - INFO - Processing evtx : Microsoft-Windows-UserModePowerService/Diagnostic
+2024-09-15 16:16:56,608 - FastIR - INFO - Processing evtx : Microsoft-Windows-UserAccountControl/Diagnostic
+2024-09-15 16:16:56,624 - FastIR - INFO - Processing evtx : Microsoft-Windows-User-Loader/Operational
+2024-09-15 16:16:56,644 - FastIR - INFO - Processing evtx : Microsoft-Windows-User-Loader/Analytic
+2024-09-15 16:16:56,655 - FastIR - INFO - Processing evtx : Microsoft-Windows-User Profile Service/Operational
+2024-09-15 16:16:56,703 - FastIR - INFO - Processing evtx : Microsoft-Windows-User Profile Service/Diagnostic
+2024-09-15 16:16:56,711 - FastIR - INFO - Processing evtx : Microsoft-Windows-User Device Registration/Debug
+2024-09-15 16:16:56,723 - FastIR - INFO - Processing evtx : Microsoft-Windows-User Device Registration/Admin
+2024-09-15 16:16:56,838 - FastIR - INFO - Processing evtx : Microsoft-Windows-User Control Panel/Operational
+2024-09-15 16:16:56,855 - FastIR - INFO - Processing evtx : Microsoft-Windows-User Control Panel/Diagnostic
+2024-09-15 16:16:56,871 - FastIR - INFO - Processing evtx : Microsoft-Windows-User Control Panel Usage/Diagnostic
+2024-09-15 16:16:56,871 - FastIR - INFO - Processing evtx : Microsoft-Windows-User Control Panel Performance/Diagnostic
+2024-09-15 16:16:56,885 - FastIR - INFO - Processing evtx : Microsoft-Windows-USBVideo/Analytic
+2024-09-15 16:16:56,885 - FastIR - ERROR - Error while processing evtx : Microsoft-Windows-USBVideo/Analytic
+2024-09-15 16:16:56,885 - FastIR - INFO - Processing evtx : Microsoft-Windows-USB-USBXHCI-Trustlet-Analytic
+2024-09-15 16:16:56,901 - FastIR - INFO - Processing evtx : Microsoft-Windows-USB-USBXHCI-Analytic
+2024-09-15 16:16:56,917 - FastIR - INFO - Processing evtx : Microsoft-Windows-USB-USBPORT/Diagnostic
+2024-09-15 16:16:56,917 - FastIR - INFO - Processing evtx : Microsoft-Windows-USB-USBHUB3-Analytic
+2024-09-15 16:16:56,933 - FastIR - INFO - Processing evtx : Microsoft-Windows-USB-USBHUB/Diagnostic
+2024-09-15 16:16:56,948 - FastIR - INFO - Processing evtx : Microsoft-Windows-USB-UCX-Analytic
+2024-09-15 16:16:56,963 - FastIR - INFO - Processing evtx : Microsoft-Windows-USB-MAUSBHOST-Analytic
+2024-09-15 16:16:56,980 - FastIR - INFO - Processing evtx : Microsoft-Windows-UniversalTelemetryClient/Operational
+2024-09-15 16:16:57,010 - FastIR - INFO - Processing evtx : Microsoft-Windows-UIRibbon/Diagnostic
+2024-09-15 16:16:57,026 - FastIR - INFO - Processing evtx : Microsoft-Windows-UIAutomationCore/Perf
+2024-09-15 16:16:57,026 - FastIR - INFO - Processing evtx : Microsoft-Windows-UIAutomationCore/Diagnostic
+2024-09-15 16:16:57,042 - FastIR - INFO - Processing evtx : Microsoft-Windows-UIAutomationCore/Debug
+2024-09-15 16:16:57,058 - FastIR - INFO - Processing evtx : Microsoft-Windows-UIAnimation/Diagnostic
+2024-09-15 16:16:57,073 - FastIR - INFO - Processing evtx : Microsoft-Windows-UI-Shell/Diagnostic
+2024-09-15 16:16:57,073 - FastIR - INFO - Processing evtx : Microsoft-Windows-UAC/Operational
+2024-09-15 16:16:57,088 - FastIR - INFO - Processing evtx : Microsoft-Windows-UAC-FileVirtualization/Operational
+2024-09-15 16:16:57,105 - FastIR - INFO - Processing evtx : Microsoft-Windows-TZUtil/Operational
+2024-09-15 16:16:57,121 - FastIR - INFO - Processing evtx : Microsoft-Windows-TZSync/Operational
+2024-09-15 16:16:57,121 - FastIR - INFO - Processing evtx : Microsoft-Windows-TZSync/Analytic
+2024-09-15 16:16:57,148 - FastIR - INFO - Processing evtx : Microsoft-Windows-TWinUI/Operational
+2024-09-15 16:16:57,167 - FastIR - INFO - Processing evtx : Microsoft-Windows-TWinUI/Diagnostic
+2024-09-15 16:16:57,180 - FastIR - INFO - Processing evtx : Microsoft-Windows-TWinAPI/Diagnostic
+2024-09-15 16:16:57,191 - FastIR - INFO - Processing evtx : Microsoft-Windows-TunnelDriver
+2024-09-15 16:16:57,203 - FastIR - INFO - Processing evtx : Microsoft-Windows-TTS/Diagnostic
+2024-09-15 16:16:57,216 - FastIR - INFO - Processing evtx : Microsoft-Windows-TSF-msutb/Diagnostic
+2024-09-15 16:16:57,227 - FastIR - INFO - Processing evtx : Microsoft-Windows-TSF-msutb/Debug
+2024-09-15 16:16:57,240 - FastIR - INFO - Processing evtx : Microsoft-Windows-TSF-msctf/Diagnostic
+2024-09-15 16:16:57,252 - FastIR - INFO - Processing evtx : Microsoft-Windows-TSF-msctf/Debug
+2024-09-15 16:16:57,263 - FastIR - INFO - Processing evtx : Microsoft-Windows-Troubleshooting-Recommended/Operational
+2024-09-15 16:16:57,276 - FastIR - INFO - Processing evtx : Microsoft-Windows-Troubleshooting-Recommended/Admin
+2024-09-15 16:16:57,288 - FastIR - INFO - Processing evtx : Microsoft-Windows-Time-Service/Operational
+2024-09-15 16:16:57,315 - FastIR - INFO - Processing evtx : Microsoft-Windows-Time-Service-PTP-Provider/PTP-Operational
+2024-09-15 16:16:57,323 - FastIR - INFO - Processing evtx : Microsoft-Windows-Threat-Intelligence/Analytic
+2024-09-15 16:16:57,335 - FastIR - INFO - Processing evtx : Microsoft-Windows-ThemeUI/Diagnostic
+2024-09-15 16:16:57,348 - FastIR - INFO - Processing evtx : Microsoft-Windows-ThemeCPL/Diagnostic
+2024-09-15 16:16:57,359 - FastIR - INFO - Processing evtx : Microsoft-Windows-Tethering-Station/Analytic
+2024-09-15 16:16:57,371 - FastIR - INFO - Processing evtx : Microsoft-Windows-Tethering-Manager/Analytic
+2024-09-15 16:16:57,384 - FastIR - INFO - Processing evtx : Microsoft-Windows-TerminalServices-ServerUSBDevices/Operational
+2024-09-15 16:16:57,395 - FastIR - INFO - Processing evtx : Microsoft-Windows-TerminalServices-ServerUSBDevices/Debug
+2024-09-15 16:16:57,407 - FastIR - INFO - Processing evtx : Microsoft-Windows-TerminalServices-ServerUSBDevices/Analytic
+2024-09-15 16:16:57,420 - FastIR - INFO - Processing evtx : Microsoft-Windows-TerminalServices-ServerUSBDevices/Admin
+2024-09-15 16:16:57,431 - FastIR - INFO - Processing evtx : Microsoft-Windows-TerminalServices-RemoteConnectionManager/Operational
+2024-09-15 16:16:57,444 - FastIR - INFO - Processing evtx : Microsoft-Windows-TerminalServices-RemoteConnectionManager/Debug
+2024-09-15 16:16:57,456 - FastIR - INFO - Processing evtx : Microsoft-Windows-TerminalServices-RemoteConnectionManager/Analytic
+2024-09-15 16:16:57,467 - FastIR - INFO - Processing evtx : Microsoft-Windows-TerminalServices-RemoteConnectionManager/Admin
+2024-09-15 16:16:57,480 - FastIR - INFO - Processing evtx : Microsoft-Windows-TerminalServices-RdpSoundDriver/Playback
+2024-09-15 16:16:57,492 - FastIR - INFO - Processing evtx : Microsoft-Windows-TerminalServices-RdpSoundDriver/Capture
+2024-09-15 16:16:57,503 - FastIR - INFO - Processing evtx : Microsoft-Windows-TerminalServices-RDPClient/Operational
+2024-09-15 16:16:57,516 - FastIR - INFO - Processing evtx : Microsoft-Windows-TerminalServices-RDPClient/Debug
+2024-09-15 16:16:57,528 - FastIR - INFO - Processing evtx : Microsoft-Windows-TerminalServices-RDPClient/Analytic
+2024-09-15 16:16:57,539 - FastIR - INFO - Processing evtx : Microsoft-Windows-TerminalServices-Printers/Operational
+2024-09-15 16:16:57,552 - FastIR - INFO - Processing evtx : Microsoft-Windows-TerminalServices-Printers/Debug
+2024-09-15 16:16:57,563 - FastIR - INFO - Processing evtx : Microsoft-Windows-TerminalServices-Printers/Analytic
+2024-09-15 16:16:57,575 - FastIR - INFO - Processing evtx : Microsoft-Windows-TerminalServices-Printers/Admin
+2024-09-15 16:16:57,588 - FastIR - INFO - Processing evtx : Microsoft-Windows-TerminalServices-PnPDevices/Operational
+2024-09-15 16:16:57,599 - FastIR - INFO - Processing evtx : Microsoft-Windows-TerminalServices-PnPDevices/Debug
+2024-09-15 16:16:57,611 - FastIR - INFO - Processing evtx : Microsoft-Windows-TerminalServices-PnPDevices/Analytic
+2024-09-15 16:16:57,624 - FastIR - INFO - Processing evtx : Microsoft-Windows-TerminalServices-PnPDevices/Admin
+2024-09-15 16:16:57,648 - FastIR - INFO - Processing evtx : Microsoft-Windows-TerminalServices-MediaRedirection/Analytic
+2024-09-15 16:16:57,676 - FastIR - INFO - Processing evtx : Microsoft-Windows-TerminalServices-LocalSessionManager/Operational
+2024-09-15 16:16:57,707 - FastIR - INFO - Processing evtx : Microsoft-Windows-TerminalServices-LocalSessionManager/Debug
+2024-09-15 16:16:57,723 - FastIR - INFO - Processing evtx : Microsoft-Windows-TerminalServices-LocalSessionManager/Analytic
+2024-09-15 16:16:57,732 - FastIR - INFO - Processing evtx : Microsoft-Windows-TerminalServices-LocalSessionManager/Admin
+2024-09-15 16:16:57,743 - FastIR - INFO - Processing evtx : Microsoft-Windows-TerminalServices-ClientUSBDevices/Operational
+2024-09-15 16:16:57,756 - FastIR - INFO - Processing evtx : Microsoft-Windows-TerminalServices-ClientUSBDevices/Debug
+2024-09-15 16:16:57,767 - FastIR - INFO - Processing evtx : Microsoft-Windows-TerminalServices-ClientUSBDevices/Analytic
+2024-09-15 16:16:57,779 - FastIR - INFO - Processing evtx : Microsoft-Windows-TerminalServices-ClientUSBDevices/Admin
+2024-09-15 16:16:57,792 - FastIR - INFO - Processing evtx : Microsoft-Windows-TenantRestrictions/Operational
+2024-09-15 16:16:57,803 - FastIR - INFO - Processing evtx : Microsoft-Windows-TCPIP/Operational
+2024-09-15 16:16:57,815 - FastIR - INFO - Processing evtx : Microsoft-Windows-TCPIP/Diagnostic
+2024-09-15 16:16:57,828 - FastIR - INFO - Processing evtx : Microsoft-Windows-TaskScheduler/Operational
+2024-09-15 16:16:57,839 - FastIR - INFO - Processing evtx : Microsoft-Windows-TaskScheduler/Maintenance
+2024-09-15 16:16:57,875 - FastIR - INFO - Processing evtx : Microsoft-Windows-TaskScheduler/Diagnostic
+2024-09-15 16:16:57,888 - FastIR - INFO - Processing evtx : Microsoft-Windows-TaskScheduler/Debug
+2024-09-15 16:16:57,900 - FastIR - INFO - Processing evtx : Microsoft-Windows-TaskbarCPL/Diagnostic
+2024-09-15 16:16:57,911 - FastIR - INFO - Processing evtx : Microsoft-Windows-SystemSettingsThreshold/Operational
+2024-09-15 16:16:57,924 - FastIR - INFO - Processing evtx : Microsoft-Windows-SystemSettingsThreshold/Diagnostic
+2024-09-15 16:16:57,936 - FastIR - INFO - Processing evtx : Microsoft-Windows-SystemSettingsThreshold/Debug
+2024-09-15 16:16:57,947 - FastIR - INFO - Processing evtx : Microsoft-Windows-SystemSettingsHandlers/Debug
+2024-09-15 16:16:57,960 - FastIR - INFO - Processing evtx : Microsoft-Windows-System-Profile-HardwareId/Diagnostic
+2024-09-15 16:16:57,971 - FastIR - INFO - Processing evtx : Microsoft-Windows-Sysprep/Analytic
+2024-09-15 16:16:57,983 - FastIR - INFO - Processing evtx : Microsoft-Windows-Superfetch/StoreLog
+2024-09-15 16:16:57,996 - FastIR - INFO - Processing evtx : Microsoft-Windows-Superfetch/PfApLog
+2024-09-15 16:16:58,007 - FastIR - INFO - Processing evtx : Microsoft-Windows-Superfetch/Main
+2024-09-15 16:16:58,019 - FastIR - INFO - Processing evtx : Microsoft-Windows-Subsys-SMSS/Operational
+2024-09-15 16:16:58,032 - FastIR - INFO - Processing evtx : Microsoft-Windows-Subsys-Csr/Operational
+2024-09-15 16:16:58,032 - FastIR - INFO - Processing evtx : Microsoft-Windows-Storsvc/Diagnostic
+2024-09-15 16:16:58,063 - FastIR - INFO - Processing evtx : Microsoft-Windows-StorPort/Operational
+2024-09-15 16:16:58,092 - FastIR - INFO - Processing evtx : Microsoft-Windows-Store/Operational
+2024-09-15 16:16:58,493 - FastIR - INFO - Processing evtx : Microsoft-Windows-StorDiag/Operational
+2024-09-15 16:16:58,555 - FastIR - INFO - Processing evtx : Microsoft-Windows-StorageSpaces-SpaceManager/Operational
+2024-09-15 16:16:58,572 - FastIR - INFO - Processing evtx : Microsoft-Windows-StorageSpaces-SpaceManager/Diagnostic
+2024-09-15 16:16:58,572 - FastIR - INFO - Processing evtx : Microsoft-Windows-StorageSpaces-Parser/Operational
+2024-09-15 16:16:58,588 - FastIR - INFO - Processing evtx : Microsoft-Windows-StorageSpaces-Parser/Diagnostic
+2024-09-15 16:16:58,602 - FastIR - INFO - Processing evtx : Microsoft-Windows-StorageSpaces-ManagementAgent/WHC
+2024-09-15 16:16:58,618 - FastIR - INFO - Processing evtx : Microsoft-Windows-StorageSpaces-Driver/Performance
+2024-09-15 16:16:58,618 - FastIR - INFO - Processing evtx : Microsoft-Windows-StorageSpaces-Driver/Operational
+2024-09-15 16:16:58,650 - FastIR - INFO - Processing evtx : Microsoft-Windows-StorageSpaces-Driver/Diagnostic
+2024-09-15 16:16:58,665 - FastIR - INFO - Processing evtx : Microsoft-Windows-StorageSpaces-Api/Operational
+2024-09-15 16:16:58,665 - FastIR - INFO - Processing evtx : Microsoft-Windows-StorageSettings/Diagnostic
+2024-09-15 16:16:58,680 - FastIR - INFO - Processing evtx : Microsoft-Windows-StorageManagement/Operational
+2024-09-15 16:16:58,917 - FastIR - INFO - Processing evtx : Microsoft-Windows-StorageManagement/Debug
+2024-09-15 16:16:58,980 - FastIR - INFO - Processing evtx : Microsoft-Windows-StorageManagement-PartUtil/Operational
+2024-09-15 16:16:59,042 - FastIR - INFO - Processing evtx : Microsoft-Windows-Storage-Tiering/Admin
+2024-09-15 16:16:59,099 - FastIR - INFO - Processing evtx : Microsoft-Windows-Storage-Tiering-IoHeat/Heat
+2024-09-15 16:16:59,115 - FastIR - INFO - Processing evtx : Microsoft-Windows-Storage-Storport/Operational
+2024-09-15 16:16:59,601 - FastIR - INFO - Processing evtx : Microsoft-Windows-Storage-Storport/Health
+2024-09-15 16:16:59,819 - FastIR - INFO - Processing evtx : Microsoft-Windows-Storage-Storport/Diagnose
+2024-09-15 16:16:59,835 - FastIR - INFO - Processing evtx : Microsoft-Windows-Storage-Storport/Debug
+2024-09-15 16:16:59,851 - FastIR - INFO - Processing evtx : Microsoft-Windows-Storage-Storport/Analytic
+2024-09-15 16:16:59,851 - FastIR - INFO - Processing evtx : Microsoft-Windows-Storage-Storport/Admin
+2024-09-15 16:16:59,865 - FastIR - INFO - Processing evtx : Microsoft-Windows-Storage-NvmeDisk/Operational
+2024-09-15 16:16:59,881 - FastIR - INFO - Processing evtx : Microsoft-Windows-Storage-NvmeDisk/Diagnose
+2024-09-15 16:16:59,897 - FastIR - INFO - Processing evtx : Microsoft-Windows-Storage-NvmeDisk/Analytic
+2024-09-15 16:16:59,897 - FastIR - INFO - Processing evtx : Microsoft-Windows-Storage-Disk/Operational
+2024-09-15 16:16:59,913 - FastIR - INFO - Processing evtx : Microsoft-Windows-Storage-Disk/Diagnose
+2024-09-15 16:16:59,928 - FastIR - INFO - Processing evtx : Microsoft-Windows-Storage-Disk/Debug
+2024-09-15 16:16:59,944 - FastIR - INFO - Processing evtx : Microsoft-Windows-Storage-Disk/Analytic
+2024-09-15 16:16:59,960 - FastIR - INFO - Processing evtx : Microsoft-Windows-Storage-Disk/Admin
+2024-09-15 16:16:59,960 - FastIR - INFO - Processing evtx : Microsoft-Windows-Storage-ClassPnP/Operational
+2024-09-15 16:17:00,038 - FastIR - INFO - Processing evtx : Microsoft-Windows-Storage-ClassPnP/Diagnose
+2024-09-15 16:17:00,038 - FastIR - INFO - Processing evtx : Microsoft-Windows-Storage-ClassPnP/Debug
+2024-09-15 16:17:00,053 - FastIR - INFO - Processing evtx : Microsoft-Windows-Storage-ClassPnP/Analytic
+2024-09-15 16:17:00,163 - FastIR - INFO - Processing evtx : Microsoft-Windows-Storage-ClassPnP/Admin
+2024-09-15 16:17:00,178 - FastIR - INFO - Processing evtx : Microsoft-Windows-Storage-ATAPort/Operational
+2024-09-15 16:17:00,194 - FastIR - INFO - Processing evtx : Microsoft-Windows-Storage-ATAPort/Diagnose
+2024-09-15 16:17:00,210 - FastIR - INFO - Processing evtx : Microsoft-Windows-Storage-ATAPort/Debug
+2024-09-15 16:17:00,210 - FastIR - INFO - Processing evtx : Microsoft-Windows-Storage-ATAPort/Analytic
+2024-09-15 16:17:00,226 - FastIR - INFO - Processing evtx : Microsoft-Windows-Storage-ATAPort/Admin
+2024-09-15 16:17:00,240 - FastIR - INFO - Processing evtx : Microsoft-Windows-stobject/Diagnostic
+2024-09-15 16:17:00,256 - FastIR - INFO - Processing evtx : Microsoft-Windows-StateRepository/Restricted
+2024-09-15 16:17:00,303 - FastIR - INFO - Processing evtx : Microsoft-Windows-StateRepository/Operational
+2024-09-15 16:17:00,434 - FastIR - INFO - Processing evtx : Microsoft-Windows-StateRepository/Diagnostic
+2024-09-15 16:17:00,434 - FastIR - INFO - Processing evtx : Microsoft-Windows-StateRepository/Debug
+2024-09-15 16:17:00,448 - FastIR - INFO - Processing evtx : Microsoft-Windows-SrumTelemetry
+2024-09-15 16:17:00,464 - FastIR - INFO - Processing evtx : Microsoft-Windows-SruMon/Diagnostic
+2024-09-15 16:17:00,480 - FastIR - INFO - Processing evtx : Microsoft-Windows-Spellchecking-Host/Analytic
+2024-09-15 16:17:00,480 - FastIR - INFO - Processing evtx : Microsoft-Windows-SpellChecker/Analytic
+2024-09-15 16:17:00,496 - FastIR - INFO - Processing evtx : Microsoft-Windows-Spell-Checking/Analytic
+2024-09-15 16:17:00,512 - FastIR - INFO - Processing evtx : Microsoft-Windows-Speech-UserExperience/Diagnostic
+2024-09-15 16:17:00,528 - FastIR - INFO - Processing evtx : Microsoft-Windows-SPB-HIDI2C/Analytic
+2024-09-15 16:17:00,528 - FastIR - INFO - Processing evtx : Microsoft-Windows-SPB-ClassExtension/Analytic
+2024-09-15 16:17:00,542 - FastIR - INFO - Processing evtx : Microsoft-Windows-SMBWitnessClient/Informational
+2024-09-15 16:17:00,573 - FastIR - INFO - Processing evtx : Microsoft-Windows-SMBWitnessClient/Admin
+2024-09-15 16:17:00,589 - FastIR - INFO - Processing evtx : Microsoft-Windows-SMBServer/Security
+2024-09-15 16:17:00,605 - FastIR - INFO - Processing evtx : Microsoft-Windows-SMBServer/Performance
+2024-09-15 16:17:00,621 - FastIR - INFO - Processing evtx : Microsoft-Windows-SMBServer/Operational
+2024-09-15 16:17:00,823 - FastIR - INFO - Processing evtx : Microsoft-Windows-SMBServer/Diagnostic
+2024-09-15 16:17:00,871 - FastIR - INFO - Processing evtx : Microsoft-Windows-SMBServer/Connectivity
+2024-09-15 16:17:00,887 - FastIR - INFO - Processing evtx : Microsoft-Windows-SMBServer/Audit
+2024-09-15 16:17:00,903 - FastIR - INFO - Processing evtx : Microsoft-Windows-SMBServer/Analytic
+2024-09-15 16:17:00,903 - FastIR - INFO - Processing evtx : Microsoft-Windows-SMBDirect/Netmon
+2024-09-15 16:17:00,917 - FastIR - INFO - Processing evtx : Microsoft-Windows-SMBDirect/Debug
+2024-09-15 16:17:00,934 - FastIR - INFO - Processing evtx : Microsoft-Windows-SMBDirect/Admin
+2024-09-15 16:17:00,948 - FastIR - INFO - Processing evtx : Microsoft-Windows-SmbClient/Security
+2024-09-15 16:17:00,964 - FastIR - INFO - Processing evtx : Microsoft-Windows-SMBClient/Operational
+2024-09-15 16:17:00,980 - FastIR - INFO - Processing evtx : Microsoft-Windows-SMBClient/ObjectStateDiagnostic
+2024-09-15 16:17:00,996 - FastIR - INFO - Processing evtx : Microsoft-Windows-SMBClient/HelperClassDiagnostic
+2024-09-15 16:17:00,996 - FastIR - INFO - Processing evtx : Microsoft-Windows-SmbClient/Diagnostic
+2024-09-15 16:17:01,012 - FastIR - INFO - Processing evtx : Microsoft-Windows-SmbClient/Connectivity
+2024-09-15 16:17:01,121 - FastIR - INFO - Processing evtx : Microsoft-Windows-SmbClient/Audit
+2024-09-15 16:17:01,167 - FastIR - INFO - Processing evtx : Microsoft-Windows-SMBClient/Analytic
+2024-09-15 16:17:01,184 - FastIR - INFO - Processing evtx : Microsoft-Windows-SmartScreen/Debug
+2024-09-15 16:17:01,198 - FastIR - INFO - Processing evtx : Microsoft-Windows-SmartCard-TPM-VCard-Module/Operational
+2024-09-15 16:17:01,214 - FastIR - INFO - Processing evtx : Microsoft-Windows-SmartCard-TPM-VCard-Module/Admin
+2024-09-15 16:17:01,214 - FastIR - INFO - Processing evtx : Microsoft-Windows-SmartCard-DeviceEnum/Operational
+2024-09-15 16:17:01,230 - FastIR - INFO - Processing evtx : Microsoft-Windows-SmartCard-Audit/Authentication
+2024-09-15 16:17:01,246 - FastIR - INFO - Processing evtx : Microsoft-Windows-SleepStudy/Diagnostic
+2024-09-15 16:17:01,262 - FastIR - INFO - Processing evtx : Microsoft-Windows-Shsvcs/Diagnostic
+2024-09-15 16:17:01,262 - FastIR - INFO - Processing evtx : Microsoft-Windows-ShellCommon-StartLayoutPopulation/Operational
+2024-09-15 16:17:01,309 - FastIR - INFO - Processing evtx : Microsoft-Windows-ShellCommon-StartLayoutPopulation/Diagnostic
+2024-09-15 16:17:01,309 - FastIR - INFO - Processing evtx : Microsoft-Windows-Shell-ZipFolder/Diagnostic
+2024-09-15 16:17:01,323 - FastIR - INFO - Processing evtx : Microsoft-Windows-Shell-Shwebsvc
+2024-09-15 16:17:01,339 - FastIR - INFO - Processing evtx : Microsoft-Windows-Shell-OpenWith/Diagnostic
+2024-09-15 16:17:01,355 - FastIR - INFO - Processing evtx : Microsoft-Windows-Shell-LockScreenContent/Diagnostic
+2024-09-15 16:17:01,371 - FastIR - INFO - Processing evtx : Microsoft-Windows-Shell-DefaultPrograms/Diagnostic
+2024-09-15 16:17:01,371 - FastIR - INFO - Processing evtx : Microsoft-Windows-Shell-Core/Operational
+2024-09-15 16:17:01,403 - FastIR - INFO - Processing evtx : Microsoft-Windows-Shell-Core/LogonTasksChannel
+2024-09-15 16:17:01,417 - FastIR - INFO - Processing evtx : Microsoft-Windows-Shell-Core/Diagnostic
+2024-09-15 16:17:01,434 - FastIR - INFO - Processing evtx : Microsoft-Windows-Shell-Core/AppDefaults
+2024-09-15 16:17:01,464 - FastIR - INFO - Processing evtx : Microsoft-Windows-Shell-Core/ActionCenter
+2024-09-15 16:17:01,464 - FastIR - INFO - Processing evtx : Microsoft-Windows-Shell-ConnectedAccountState/ActionCenter
+2024-09-15 16:17:01,480 - FastIR - INFO - Processing evtx : Microsoft-Windows-Shell-AuthUI-Shutdown/Diagnostic
+2024-09-15 16:17:01,496 - FastIR - INFO - Processing evtx : Microsoft-Windows-Shell-AuthUI-LogonUI/Diagnostic
+2024-09-15 16:17:01,512 - FastIR - INFO - Processing evtx : Microsoft-Windows-Shell-AuthUI-Logon/Diagnostic
+2024-09-15 16:17:01,512 - FastIR - INFO - Processing evtx : Microsoft-Windows-Shell-AuthUI-CredUI/Diagnostic
+2024-09-15 16:17:01,528 - FastIR - INFO - Processing evtx : Microsoft-Windows-Shell-AuthUI-CredentialProviderUser/Diagnostic
+2024-09-15 16:17:01,542 - FastIR - INFO - Processing evtx : Microsoft-Windows-Shell-AuthUI-Common/Diagnostic
+2024-09-15 16:17:01,559 - FastIR - INFO - Processing evtx : Microsoft-Windows-Shell-AuthUI-BootAnim/Diagnostic
+2024-09-15 16:17:01,559 - FastIR - INFO - Processing evtx : Microsoft-Windows-Shell-AppWizCpl/Diagnostic
+2024-09-15 16:17:01,573 - FastIR - INFO - Processing evtx : Microsoft-Windows-ShareMedia-ControlPanel/Diagnostic
+2024-09-15 16:17:01,589 - FastIR - INFO - Processing evtx : Microsoft-Windows-SetupUGC/Analytic
+2024-09-15 16:17:01,605 - FastIR - INFO - Processing evtx : Microsoft-Windows-SetupQueue/Analytic
+2024-09-15 16:17:01,605 - FastIR - INFO - Processing evtx : Microsoft-Windows-SetupPlatform/Analytic
+2024-09-15 16:17:01,621 - FastIR - INFO - Processing evtx : Microsoft-Windows-SetupCl/Analytic
+2024-09-15 16:17:01,637 - FastIR - INFO - Processing evtx : Microsoft-Windows-Setup/Analytic
+2024-09-15 16:17:01,653 - FastIR - INFO - Processing evtx : Microsoft-Windows-SettingSync/VerboseDebug
+2024-09-15 16:17:01,667 - FastIR - INFO - Processing evtx : Microsoft-Windows-SettingSync/Operational
+2024-09-15 16:17:01,667 - FastIR - INFO - Processing evtx : Microsoft-Windows-SettingSync/Debug
+2024-09-15 16:17:01,684 - FastIR - INFO - Processing evtx : Microsoft-Windows-SettingSync/Analytic
+2024-09-15 16:17:01,698 - FastIR - INFO - Processing evtx : Microsoft-Windows-SettingSync-OneDrive/Operational
+2024-09-15 16:17:01,839 - FastIR - INFO - Processing evtx : Microsoft-Windows-SettingSync-OneDrive/Debug
+2024-09-15 16:17:01,871 - FastIR - INFO - Processing evtx : Microsoft-Windows-SettingSync-OneDrive/Analytic
+2024-09-15 16:17:01,887 - FastIR - INFO - Processing evtx : Microsoft-Windows-SettingSync-Azure/Operational
+2024-09-15 16:17:01,903 - FastIR - INFO - Processing evtx : Microsoft-Windows-SettingSync-Azure/Debug
+2024-09-15 16:17:01,903 - FastIR - INFO - Processing evtx : Microsoft-Windows-Servicing/Debug
+2024-09-15 16:17:01,917 - FastIR - INFO - Processing evtx : Microsoft-Windows-Services/Diagnostic
+2024-09-15 16:17:01,934 - FastIR - INFO - Processing evtx : Microsoft-Windows-Services-Svchost/Diagnostic
+2024-09-15 16:17:01,948 - FastIR - INFO - Processing evtx : Microsoft-Windows-ServiceReportingApi/Debug
+2024-09-15 16:17:01,948 - FastIR - INFO - Processing evtx : Microsoft-Windows-Serial-ClassExtension/Analytic
+2024-09-15 16:17:01,964 - FastIR - INFO - Processing evtx : Microsoft-Windows-Serial-ClassExtension-V2/Analytic
+2024-09-15 16:17:01,980 - FastIR - INFO - Processing evtx : Microsoft-Windows-Sensors/Performance
+2024-09-15 16:17:01,996 - FastIR - INFO - Processing evtx : Microsoft-Windows-Sensors/Debug
+2024-09-15 16:17:01,996 - FastIR - INFO - Processing evtx : Microsoft-Windows-SenseIR/Operational
+2024-09-15 16:17:02,012 - FastIR - INFO - Processing evtx : Microsoft-Windows-SENSE/Operational
+2024-09-15 16:17:02,028 - FastIR - INFO - Processing evtx : Microsoft-Windows-Sens/Debug
+2024-09-15 16:17:02,042 - FastIR - INFO - Processing evtx : Microsoft-Windows-SendTo/Diagnostic
+2024-09-15 16:17:02,059 - FastIR - INFO - Processing evtx : Microsoft-Windows-SecurityMitigationsBroker/Perf
+2024-09-15 16:17:02,059 - FastIR - INFO - Processing evtx : Microsoft-Windows-SecurityMitigationsBroker/Operational
+2024-09-15 16:17:02,073 - FastIR - INFO - Processing evtx : Microsoft-Windows-SecurityMitigationsBroker/Admin
+2024-09-15 16:17:02,089 - FastIR - INFO - Processing evtx : Microsoft-Windows-Security-Vault/Performance
+2024-09-15 16:17:02,105 - FastIR - INFO - Processing evtx : Microsoft-Windows-Security-UserConsentVerifier/Audit
+2024-09-15 16:17:02,105 - FastIR - INFO - Processing evtx : Microsoft-Windows-Security-SPP/Perf
+2024-09-15 16:17:02,137 - FastIR - INFO - Processing evtx : Microsoft-Windows-Security-SPP-UX/Analytic
+2024-09-15 16:17:02,153 - FastIR - INFO - Processing evtx : Microsoft-Windows-Security-SPP-UX-Notifications/ActionCenter
+2024-09-15 16:17:02,167 - FastIR - INFO - Processing evtx : Microsoft-Windows-Security-SPP-UX-GenuineCenter-Logging/Operational
+2024-09-15 16:17:02,167 - FastIR - INFO - Processing evtx : Microsoft-Windows-Security-SPP-UX-GC/Analytic
+2024-09-15 16:17:02,278 - FastIR - INFO - Processing evtx : Microsoft-Windows-Security-Netlogon/Operational
+2024-09-15 16:17:02,292 - FastIR - INFO - Processing evtx : Microsoft-Windows-Security-Mitigations/UserMode
+2024-09-15 16:17:02,309 - FastIR - INFO - Processing evtx : Microsoft-Windows-Security-Mitigations/KernelMode
+2024-09-15 16:17:02,323 - FastIR - INFO - Processing evtx : Microsoft-Windows-Security-LessPrivilegedAppContainer/Operational
+2024-09-15 16:17:02,355 - FastIR - INFO - Processing evtx : Microsoft-Windows-Security-Isolation-BrokeringFileSystem/Operational
+2024-09-15 16:17:02,371 - FastIR - INFO - Processing evtx : Microsoft-Windows-Security-IdentityStore/Performance
+2024-09-15 16:17:02,371 - FastIR - INFO - Processing evtx : Microsoft-Windows-Security-IdentityListener/Operational
+2024-09-15 16:17:02,387 - FastIR - INFO - Processing evtx : Microsoft-Windows-Security-ExchangeActiveSyncProvisioning/Performance
+2024-09-15 16:17:02,403 - FastIR - INFO - Processing evtx : Microsoft-Windows-Security-ExchangeActiveSyncProvisioning/Operational
+2024-09-15 16:17:02,417 - FastIR - INFO - Processing evtx : Microsoft-Windows-Security-EnterpriseData-FileRevocationManager/Operational
+2024-09-15 16:17:02,434 - FastIR - INFO - Processing evtx : Microsoft-Windows-Security-Audit-Configuration-Client/Operational
+2024-09-15 16:17:02,434 - FastIR - INFO - Processing evtx : Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic
+2024-09-15 16:17:02,448 - FastIR - INFO - Processing evtx : Microsoft-Windows-Security-Adminless/Operational
+2024-09-15 16:17:02,464 - FastIR - INFO - Processing evtx : Microsoft-Windows-SecureAssessment/Operational
+2024-09-15 16:17:02,480 - FastIR - INFO - Processing evtx : Microsoft-Windows-SearchUI/Operational
+2024-09-15 16:17:02,480 - FastIR - INFO - Processing evtx : Microsoft-Windows-SearchUI/Diagnostic
+2024-09-15 16:17:02,496 - FastIR - INFO - Processing evtx : Microsoft-Windows-Search-ProtocolHandlers/Diagnostic
+2024-09-15 16:17:02,512 - FastIR - INFO - Processing evtx : Microsoft-Windows-Search-Core/Diagnostic
+2024-09-15 16:17:02,528 - FastIR - INFO - Processing evtx : Microsoft-Windows-Sdstor/Analytic
+2024-09-15 16:17:02,528 - FastIR - INFO - Processing evtx : Microsoft-Windows-Sdbus/Debug
+2024-09-15 16:17:02,542 - FastIR - INFO - Processing evtx : Microsoft-Windows-Sdbus/Analytic
+2024-09-15 16:17:02,559 - FastIR - INFO - Processing evtx : Microsoft-Windows-Schannel-Events/Perf
+2024-09-15 16:17:02,573 - FastIR - INFO - Processing evtx : Microsoft-Windows-Runtime/Error
+2024-09-15 16:17:02,573 - FastIR - INFO - Processing evtx : Microsoft-Windows-Runtime/CreateInstance
+2024-09-15 16:17:02,589 - FastIR - INFO - Processing evtx : Microsoft-Windows-Runtime-Windows-Media/WinRTTranscode
+2024-09-15 16:17:02,605 - FastIR - INFO - Processing evtx : Microsoft-Windows-Runtime-Windows-Media/WinRTMediaStreamSource
+2024-09-15 16:17:02,621 - FastIR - INFO - Processing evtx : Microsoft-Windows-Runtime-Windows-Media/WinRTCaptureEngine
+2024-09-15 16:17:02,637 - FastIR - INFO - Processing evtx : Microsoft-Windows-Runtime-Windows-Media/WinRTAdaptiveMediaSource
+2024-09-15 16:17:02,637 - FastIR - INFO - Processing evtx : Microsoft-Windows-Runtime-WebAPI/Tracing
+2024-09-15 16:17:02,653 - FastIR - INFO - Processing evtx : Microsoft-Windows-Runtime-Web-Http/Tracing
+2024-09-15 16:17:02,667 - FastIR - INFO - Processing evtx : Microsoft-Windows-Runtime-Networking/Tracing
+2024-09-15 16:17:02,684 - FastIR - INFO - Processing evtx : Microsoft-Windows-Runtime-Networking-BackgroundTransfer/Tracing
+2024-09-15 16:17:02,684 - FastIR - INFO - Processing evtx : Microsoft-Windows-Runtime-Graphics/Analytic
+2024-09-15 16:17:02,698 - FastIR - INFO - Processing evtx : Microsoft-Windows-RRAS/Operational
+2024-09-15 16:17:02,714 - FastIR - INFO - Processing evtx : Microsoft-Windows-RRAS/Debug
+2024-09-15 16:17:02,730 - FastIR - INFO - Processing evtx : Microsoft-Windows-RPC/EEInfo
+2024-09-15 16:17:02,746 - FastIR - INFO - Processing evtx : Microsoft-Windows-RPC/Debug
+2024-09-15 16:17:02,746 - FastIR - INFO - Processing evtx : Microsoft-Windows-RPC-Proxy/Debug
+2024-09-15 16:17:02,762 - FastIR - INFO - Processing evtx : Microsoft-Windows-RetailDemo/Operational
+2024-09-15 16:17:02,778 - FastIR - INFO - Processing evtx : Microsoft-Windows-RetailDemo/Admin
+2024-09-15 16:17:02,792 - FastIR - INFO - Processing evtx : Microsoft-Windows-RestartManager/Operational
+2024-09-15 16:17:02,792 - FastIR - INFO - Processing evtx : Microsoft-Windows-ResourcePublication/Tracing
+2024-09-15 16:17:02,809 - FastIR - INFO - Processing evtx : Microsoft-Windows-Resource-Exhaustion-Resolver/Operational
+2024-09-15 16:17:02,823 - FastIR - INFO - Processing evtx : Microsoft-Windows-Resource-Exhaustion-Detector/Operational
+2024-09-15 16:17:02,839 - FastIR - INFO - Processing evtx : Microsoft-Windows-ResetEng-Trace/Diagnostic
+2024-09-15 16:17:02,839 - FastIR - INFO - Processing evtx : Microsoft-Windows-Remotefs-Rdbss/Operational
+2024-09-15 16:17:02,855 - FastIR - INFO - Processing evtx : Microsoft-Windows-Remotefs-Rdbss/Diagnostic
+2024-09-15 16:17:02,887 - FastIR - INFO - Processing evtx : Microsoft-Windows-RemoteDesktopServices-SessionServices/Operational
+2024-09-15 16:17:02,903 - FastIR - INFO - Processing evtx : Microsoft-Windows-RemoteDesktopServices-RemoteFX-VM-User-Mode-Transport/Debug
+2024-09-15 16:17:02,917 - FastIR - INFO - Processing evtx : Microsoft-Windows-RemoteDesktopServices-RemoteFX-VM-Kernel-Mode-Transport/Debug
+2024-09-15 16:17:02,934 - FastIR - INFO - Processing evtx : Microsoft-Windows-RemoteDesktopServices-RemoteFX-Synth3dvsc/Admin
+2024-09-15 16:17:02,934 - FastIR - INFO - Processing evtx : Microsoft-Windows-RemoteDesktopServices-RdpCoreTS/Operational
+2024-09-15 16:17:02,948 - FastIR - INFO - Processing evtx : Microsoft-Windows-RemoteDesktopServices-RdpCoreTS/Debug
+2024-09-15 16:17:02,964 - FastIR - INFO - Processing evtx : Microsoft-Windows-RemoteDesktopServices-RdpCoreTS/Admin
+2024-09-15 16:17:02,980 - FastIR - INFO - Processing evtx : Microsoft-Windows-RemoteAssistance/Tracing
+2024-09-15 16:17:02,980 - FastIR - INFO - Processing evtx : Microsoft-Windows-RemoteAssistance/Operational
+2024-09-15 16:17:02,996 - FastIR - INFO - Processing evtx : Microsoft-Windows-RemoteAssistance/Admin
+2024-09-15 16:17:03,012 - FastIR - INFO - Processing evtx : Microsoft-Windows-RemoteApp and Desktop Connections/Operational
+2024-09-15 16:17:03,028 - FastIR - INFO - Processing evtx : Microsoft-Windows-RemoteApp and Desktop Connections/Admin
+2024-09-15 16:17:03,042 - FastIR - INFO - Processing evtx : Microsoft-Windows-Regsvr32/Operational
+2024-09-15 16:17:03,042 - FastIR - INFO - Processing evtx : Microsoft-Windows-ReFS/Operational
+2024-09-15 16:17:03,059 - FastIR - INFO - Processing evtx : Microsoft-Windows-ReadyBoostDriver/Operational
+2024-09-15 16:17:03,073 - FastIR - INFO - Processing evtx : Microsoft-Windows-ReadyBoostDriver/Analytic
+2024-09-15 16:17:03,137 - FastIR - INFO - Processing evtx : Microsoft-Windows-ReadyBoost/Operational
+2024-09-15 16:17:03,184 - FastIR - INFO - Processing evtx : Microsoft-Windows-ReadyBoost/Analytic
+2024-09-15 16:17:03,198 - FastIR - INFO - Processing evtx : Microsoft-Windows-RasAgileVpn/Operational
+2024-09-15 16:17:03,214 - FastIR - INFO - Processing evtx : Microsoft-Windows-RasAgileVpn/Debug
+2024-09-15 16:17:03,214 - FastIR - INFO - Processing evtx : Microsoft-Windows-Ras-NdisWanPacketCapture/Diagnostic
+2024-09-15 16:17:03,230 - FastIR - INFO - Processing evtx : Microsoft-Windows-RadioManager/Analytic
+2024-09-15 16:17:03,246 - FastIR - INFO - Processing evtx : Microsoft-Windows-QoS-qWAVE/Debug
+2024-09-15 16:17:03,262 - FastIR - INFO - Processing evtx : Microsoft-Windows-QoS-Pacer/Diagnostic
+2024-09-15 16:17:03,262 - FastIR - INFO - Processing evtx : Microsoft-Windows-PushNotification-Platform/Operational
+2024-09-15 16:17:03,292 - FastIR - INFO - Processing evtx : Microsoft-Windows-PushNotification-Platform/Debug
+2024-09-15 16:17:03,309 - FastIR - INFO - Processing evtx : Microsoft-Windows-PushNotification-Platform/Admin
+2024-09-15 16:17:03,323 - FastIR - INFO - Processing evtx : Microsoft-Windows-PushNotification-InProc/Debug
+2024-09-15 16:17:03,339 - FastIR - INFO - Processing evtx : Microsoft-Windows-PushNotification-Developer/Debug
+2024-09-15 16:17:03,355 - FastIR - INFO - Processing evtx : Microsoft-Windows-Proximity-Common/Performance
+2024-09-15 16:17:03,355 - FastIR - INFO - Processing evtx : Microsoft-Windows-Proximity-Common/Informational
+2024-09-15 16:17:03,371 - FastIR - INFO - Processing evtx : Microsoft-Windows-Proximity-Common/Diagnostic
+2024-09-15 16:17:03,387 - FastIR - INFO - Processing evtx : Microsoft-Windows-Provisioning-Diagnostics-Provider/ManagementService
+2024-09-15 16:17:03,403 - FastIR - INFO - Processing evtx : Microsoft-Windows-Provisioning-Diagnostics-Provider/Debug
+2024-09-15 16:17:03,417 - FastIR - INFO - Processing evtx : Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot
+2024-09-15 16:17:03,417 - FastIR - INFO - Processing evtx : Microsoft-Windows-Provisioning-Diagnostics-Provider/Admin
+2024-09-15 16:17:03,448 - FastIR - INFO - Processing evtx : Microsoft-Windows-Program-Compatibility-Assistant/CompatAfterUpgrade
+2024-09-15 16:17:03,464 - FastIR - INFO - Processing evtx : Microsoft-Windows-Program-Compatibility-Assistant/Analytic
+2024-09-15 16:17:03,464 - FastIR - INFO - Processing evtx : Microsoft-Windows-ProcessStateManager/Diagnostic
+2024-09-15 16:17:03,480 - FastIR - INFO - Processing evtx : Microsoft-Windows-Privacy-Auditing/Operational
+2024-09-15 16:17:03,512 - FastIR - INFO - Processing evtx : Microsoft-Windows-Privacy-Auditing-PermissiveLearningMode/Operational
+2024-09-15 16:17:03,512 - FastIR - INFO - Processing evtx : Microsoft-Windows-PrintService/Operational
+2024-09-15 16:17:03,528 - FastIR - INFO - Processing evtx : Microsoft-Windows-PrintService/Debug
+2024-09-15 16:17:03,542 - FastIR - INFO - Processing evtx : Microsoft-Windows-PrintService/Admin
+2024-09-15 16:17:03,559 - FastIR - INFO - Processing evtx : Microsoft-Windows-PrintService-USBMon/Debug
+2024-09-15 16:17:03,559 - FastIR - INFO - Processing evtx : Microsoft-Windows-PrintBRM/Admin
+2024-09-15 16:17:03,573 - FastIR - INFO - Processing evtx : Microsoft-Windows-PrimaryNetworkIcon/Performance
+2024-09-15 16:17:03,589 - FastIR - INFO - Processing evtx : Microsoft-Windows-PowerShell/Operational
+2024-09-15 16:17:03,746 - FastIR - INFO - Processing evtx : Microsoft-Windows-PowerShell/Debug
+2024-09-15 16:17:03,825 - FastIR - INFO - Processing evtx : Microsoft-Windows-PowerShell/Analytic
+2024-09-15 16:17:03,839 - FastIR - INFO - Processing evtx : Microsoft-Windows-PowerShell/Admin
+2024-09-15 16:17:03,855 - FastIR - INFO - Processing evtx : Microsoft-Windows-PowerShell-DesiredStateConfiguration-FileDownloadManager/Operational
+2024-09-15 16:17:03,855 - FastIR - INFO - Processing evtx : Microsoft-Windows-PowerShell-DesiredStateConfiguration-FileDownloadManager/Debug
+2024-09-15 16:17:03,871 - FastIR - INFO - Processing evtx : Microsoft-Windows-PowerShell-DesiredStateConfiguration-FileDownloadManager/Analytic
+2024-09-15 16:17:03,887 - FastIR - INFO - Processing evtx : Microsoft-Windows-PowerEfficiencyDiagnostics/Diagnostic
+2024-09-15 16:17:03,903 - FastIR - INFO - Processing evtx : Microsoft-Windows-PowerCpl/Diagnostic
+2024-09-15 16:17:03,918 - FastIR - INFO - Processing evtx : Microsoft-Windows-PowerCfg/Diagnostic
+2024-09-15 16:17:03,934 - FastIR - INFO - Processing evtx : Microsoft-Windows-Power-Meter-Polling/Diagnostic
+2024-09-15 16:17:03,950 - FastIR - INFO - Processing evtx : Microsoft-Windows-PortableDeviceSyncProvider/Analytic
+2024-09-15 16:17:03,950 - FastIR - INFO - Processing evtx : Microsoft-Windows-PortableDeviceStatusProvider/Analytic
+2024-09-15 16:17:03,964 - FastIR - INFO - Processing evtx : Microsoft-Windows-Policy/Operational
+2024-09-15 16:17:03,980 - FastIR - INFO - Processing evtx : Microsoft-Windows-Policy/Analytic
+2024-09-15 16:17:03,996 - FastIR - INFO - Processing evtx : Microsoft-Windows-PlayToManager/Analytic
+2024-09-15 16:17:03,996 - FastIR - INFO - Processing evtx : Microsoft-Windows-PhotoAcq/Analytic
+2024-09-15 16:17:04,012 - FastIR - INFO - Processing evtx : Microsoft-Windows-PersistentMemory-ScmBus/Operational
+2024-09-15 16:17:04,028 - FastIR - INFO - Processing evtx : Microsoft-Windows-PersistentMemory-ScmBus/Diagnose
+2024-09-15 16:17:04,043 - FastIR - INFO - Processing evtx : Microsoft-Windows-PersistentMemory-ScmBus/Certification
+2024-09-15 16:17:04,059 - FastIR - INFO - Processing evtx : Microsoft-Windows-PersistentMemory-ScmBus/Analytic
+2024-09-15 16:17:04,059 - FastIR - INFO - Processing evtx : Microsoft-Windows-PersistentMemory-PmemDisk/Operational
+2024-09-15 16:17:04,084 - FastIR - INFO - Processing evtx : Microsoft-Windows-PersistentMemory-PmemDisk/Diagnostic
+2024-09-15 16:17:04,085 - FastIR - INFO - Processing evtx : Microsoft-Windows-PersistentMemory-PmemDisk/Analytic
+2024-09-15 16:17:04,101 - FastIR - INFO - Processing evtx : Microsoft-Windows-PersistentMemory-Nvdimm/Operational
+2024-09-15 16:17:04,117 - FastIR - INFO - Processing evtx : Microsoft-Windows-PersistentMemory-Nvdimm/Diagnostic
+2024-09-15 16:17:04,117 - FastIR - INFO - Processing evtx : Microsoft-Windows-PersistentMemory-Nvdimm/Analytic
+2024-09-15 16:17:04,131 - FastIR - INFO - Processing evtx : Microsoft-Windows-Perflib/Operational
+2024-09-15 16:17:04,164 - FastIR - INFO - Processing evtx : Microsoft-Windows-PerceptionSensorDataService/Operational
+2024-09-15 16:17:04,178 - FastIR - INFO - Processing evtx : Microsoft-Windows-PerceptionRuntime/Operational
+2024-09-15 16:17:04,194 - FastIR - INFO - Processing evtx : Microsoft-Windows-PeerToPeerDrtEventProvider/Diagnostic
+2024-09-15 16:17:04,210 - FastIR - INFO - Processing evtx : Microsoft-Windows-PCI/Diagnostic
+2024-09-15 16:17:04,226 - FastIR - INFO - Processing evtx : Microsoft-Windows-Partition/Diagnostic
+2024-09-15 16:17:04,367 - FastIR - INFO - Processing evtx : Microsoft-Windows-Partition/Analytic
+2024-09-15 16:17:04,381 - FastIR - INFO - Processing evtx : Microsoft-Windows-ParentalControls/Operational
+2024-09-15 16:17:04,381 - FastIR - INFO - Processing evtx : Microsoft-Windows-PackageStateRoaming/Operational
+2024-09-15 16:17:04,398 - FastIR - INFO - Processing evtx : Microsoft-Windows-PackageStateRoaming/Debug
+2024-09-15 16:17:04,414 - FastIR - INFO - Processing evtx : Microsoft-Windows-PackageStateRoaming/Analytic
+2024-09-15 16:17:04,428 - FastIR - INFO - Processing evtx : Microsoft-Windows-OtpCredentialProvider/Operational
+2024-09-15 16:17:04,460 - FastIR - INFO - Processing evtx : Microsoft-Windows-osk/Diagnostic
+2024-09-15 16:17:04,539 - FastIR - INFO - Processing evtx : Microsoft-Windows-OobeLdr/Analytic
+2024-09-15 16:17:04,553 - FastIR - INFO - Processing evtx : Microsoft-Windows-OOBE-Machine-Plugins-Wireless/Diagnostic
+2024-09-15 16:17:04,553 - FastIR - INFO - Processing evtx : Microsoft-Windows-OOBE-Machine-DUI/Operational
+2024-09-15 16:17:04,569 - FastIR - INFO - Processing evtx : Microsoft-Windows-OOBE-Machine-DUI/Diagnostic
+2024-09-15 16:17:04,585 - FastIR - INFO - Processing evtx : Microsoft-Windows-OOBE-Machine-Core/Diagnostic
+2024-09-15 16:17:04,601 - FastIR - INFO - Processing evtx : Microsoft-Windows-OOBE-FirstLogonAnim/Diagnostic
+2024-09-15 16:17:04,601 - FastIR - INFO - Processing evtx : Microsoft-Windows-OneX/Operational
+2024-09-15 16:17:04,617 - FastIR - INFO - Processing evtx : Microsoft-Windows-OneX/Diagnostic
+2024-09-15 16:17:04,631 - FastIR - INFO - Processing evtx : Microsoft-Windows-OneBackup/Debug
+2024-09-15 16:17:04,648 - FastIR - INFO - Processing evtx : Microsoft-Windows-OLEACC/Diagnostic
+2024-09-15 16:17:04,664 - FastIR - INFO - Processing evtx : Microsoft-Windows-OLEACC/Debug
+2024-09-15 16:17:04,664 - FastIR - INFO - Processing evtx : Microsoft-Windows-OLE/Clipboard-Performance
+2024-09-15 16:17:04,678 - FastIR - INFO - Processing evtx : Microsoft-Windows-OfflineFiles/SyncLog
+2024-09-15 16:17:04,694 - FastIR - INFO - Processing evtx : Microsoft-Windows-OfflineFiles/Operational
+2024-09-15 16:17:04,710 - FastIR - INFO - Processing evtx : Microsoft-Windows-OfflineFiles/Debug
+2024-09-15 16:17:04,710 - FastIR - INFO - Processing evtx : Microsoft-Windows-OfflineFiles/Analytic
+2024-09-15 16:17:04,726 - FastIR - INFO - Processing evtx : Microsoft-Windows-OcpUpdateAgent/Operational
+2024-09-15 16:17:04,742 - FastIR - INFO - Processing evtx : Microsoft-Windows-NWiFi/Diagnostic
+2024-09-15 16:17:04,756 - FastIR - INFO - Processing evtx : Microsoft-Windows-ntshrui-perf
+2024-09-15 16:17:04,756 - FastIR - INFO - Processing evtx : Microsoft-Windows-ntshrui
+2024-09-15 16:17:04,773 - FastIR - INFO - Processing evtx : Microsoft-Windows-NTLM/Operational
+2024-09-15 16:17:04,789 - FastIR - INFO - Processing evtx : Microsoft-Windows-Ntfs/WHC
+2024-09-15 16:17:04,803 - FastIR - INFO - Processing evtx : Microsoft-Windows-Ntfs/Performance
+2024-09-15 16:17:04,819 - FastIR - INFO - Processing evtx : Microsoft-Windows-Ntfs/Operational
+2024-09-15 16:17:05,632 - FastIR - INFO - Processing evtx : Microsoft-Windows-NlaSvc/Operational
+2024-09-15 16:17:05,648 - FastIR - INFO - Processing evtx : Microsoft-Windows-NlaSvc/Diagnostic
+2024-09-15 16:17:05,664 - FastIR - INFO - Processing evtx : Microsoft-Windows-NetworkStatus/Analytic
+2024-09-15 16:17:05,664 - FastIR - INFO - Processing evtx : Microsoft-Windows-NetworkSecurity/Debug
+2024-09-15 16:17:05,678 - FastIR - INFO - Processing evtx : Microsoft-Windows-NetworkProvisioning/Operational
+2024-09-15 16:17:05,694 - FastIR - INFO - Processing evtx : Microsoft-Windows-NetworkProvisioning/Analytic
+2024-09-15 16:17:05,710 - FastIR - INFO - Processing evtx : Microsoft-Windows-NetworkProvider/Operational
+2024-09-15 16:17:05,710 - FastIR - INFO - Processing evtx : Microsoft-Windows-NetworkProfile/Operational
+2024-09-15 16:17:05,757 - FastIR - INFO - Processing evtx : Microsoft-Windows-NetworkProfile/Diagnostic
+2024-09-15 16:17:05,757 - FastIR - INFO - Processing evtx : Microsoft-Windows-NetworkLocationWizard/Operational
+2024-09-15 16:17:05,773 - FastIR - INFO - Processing evtx : Microsoft-Windows-Networking-RealTimeCommunication/Tracing
+2024-09-15 16:17:05,789 - FastIR - INFO - Processing evtx : Microsoft-Windows-Networking-Correlation/Diagnostic
+2024-09-15 16:17:05,882 - FastIR - INFO - Processing evtx : Microsoft-Windows-NetworkBridge/Diagnostic
+2024-09-15 16:17:05,914 - FastIR - INFO - Processing evtx : Microsoft-Windows-Network-Setup/Diagnostic
+2024-09-15 16:17:05,928 - FastIR - INFO - Processing evtx : Microsoft-Windows-Network-ExecutionContext/Operational
+2024-09-15 16:17:05,944 - FastIR - INFO - Processing evtx : Microsoft-Windows-Network-DataUsage/Analytic
+2024-09-15 16:17:05,976 - FastIR - INFO - Processing evtx : Microsoft-Windows-Network-Connection-Broker
+2024-09-15 16:17:05,992 - FastIR - INFO - Processing evtx : Microsoft-Windows-Network-and-Sharing-Center/Diagnostic
+2024-09-15 16:17:06,007 - FastIR - INFO - Processing evtx : Microsoft-Windows-NetShell/Performance
+2024-09-15 16:17:06,007 - FastIR - INFO - Processing evtx : Microsoft-Windows-Ndu/Diagnostic
+2024-09-15 16:17:06,023 - FastIR - INFO - Processing evtx : Microsoft-Windows-NdisImPlatform/Operational
+2024-09-15 16:17:06,039 - FastIR - INFO - Processing evtx : Microsoft-Windows-NDIS/Operational
+2024-09-15 16:17:06,055 - FastIR - INFO - Processing evtx : Microsoft-Windows-NDIS/Diagnostic
+2024-09-15 16:17:06,069 - FastIR - INFO - Processing evtx : Microsoft-Windows-NDIS-PacketCapture/Diagnostic
+2024-09-15 16:17:06,069 - FastIR - INFO - Processing evtx : Microsoft-Windows-NDF-HelperClassDiscovery/Debug
+2024-09-15 16:17:06,085 - FastIR - INFO - Processing evtx : Microsoft-Windows-NCSI/Operational
+2024-09-15 16:17:06,117 - FastIR - INFO - Processing evtx : Microsoft-Windows-NCSI/Analytic
+2024-09-15 16:17:06,132 - FastIR - INFO - Processing evtx : Microsoft-Windows-NcdAutoSetup/Operational
+2024-09-15 16:17:06,164 - FastIR - INFO - Processing evtx : Microsoft-Windows-NcdAutoSetup/Diagnostic
+2024-09-15 16:17:06,164 - FastIR - INFO - Processing evtx : Microsoft-Windows-Ncasvc/Operational
+2024-09-15 16:17:06,180 - FastIR - INFO - Processing evtx : Microsoft-Windows-Narrator/Diagnostic
+2024-09-15 16:17:06,194 - FastIR - INFO - Processing evtx : Microsoft-Windows-MUI/Operational
+2024-09-15 16:17:06,210 - FastIR - INFO - Processing evtx : Microsoft-Windows-MUI/Debug
+2024-09-15 16:17:06,210 - FastIR - INFO - Processing evtx : Microsoft-Windows-MUI/Analytic
+2024-09-15 16:17:06,226 - FastIR - INFO - Processing evtx : Microsoft-Windows-MUI/Admin
+2024-09-15 16:17:06,242 - FastIR - INFO - Processing evtx : Microsoft-Windows-MSPaint/Diagnostic
+2024-09-15 16:17:06,257 - FastIR - INFO - Processing evtx : Microsoft-Windows-MSPaint/Debug
+2024-09-15 16:17:06,257 - FastIR - INFO - Processing evtx : Microsoft-Windows-MSPaint/Admin
+2024-09-15 16:17:06,273 - FastIR - INFO - Processing evtx : Microsoft-Windows-MSFTEDIT/Diagnostic
+2024-09-15 16:17:06,289 - FastIR - INFO - Processing evtx : Microsoft-Windows-MPS-SRV/Diagnostic
+2024-09-15 16:17:06,305 - FastIR - INFO - Processing evtx : Microsoft-Windows-MPS-DRV/Diagnostic
+2024-09-15 16:17:06,319 - FastIR - INFO - Processing evtx : Microsoft-Windows-MPS-CLNT/Diagnostic
+2024-09-15 16:17:06,319 - FastIR - INFO - Processing evtx : Microsoft-Windows-Mprddm/Operational
+2024-09-15 16:17:06,335 - FastIR - INFO - Processing evtx : Microsoft-Windows-MPEG2-Video-Encoder-MFT_Analytic
+2024-09-15 16:17:06,351 - FastIR - INFO - Processing evtx : Microsoft-Windows-MosHost/Performance
+2024-09-15 16:17:06,367 - FastIR - INFO - Processing evtx : Microsoft-Windows-MosHost/Operational
+2024-09-15 16:17:06,367 - FastIR - INFO - Processing evtx : Microsoft-Windows-ModernDeployment-Diagnostics-Provider/ManagementService
+2024-09-15 16:17:06,398 - FastIR - INFO - Processing evtx : Microsoft-Windows-ModernDeployment-Diagnostics-Provider/Diagnostics
+2024-09-15 16:17:06,414 - FastIR - INFO - Processing evtx : Microsoft-Windows-ModernDeployment-Diagnostics-Provider/Debug
+2024-09-15 16:17:06,430 - FastIR - INFO - Processing evtx : Microsoft-Windows-ModernDeployment-Diagnostics-Provider/Autopilot
+2024-09-15 16:17:06,444 - FastIR - INFO - Processing evtx : Microsoft-Windows-ModernDeployment-Diagnostics-Provider/Admin
+2024-09-15 16:17:06,460 - FastIR - INFO - Processing evtx : Microsoft-Windows-mobsync/Diagnostic
+2024-09-15 16:17:06,460 - FastIR - INFO - Processing evtx : Microsoft-Windows-MobilityCenter/Performance
+2024-09-15 16:17:06,476 - FastIR - INFO - Processing evtx : Microsoft-Windows-Mobile-Broadband-Experience-SmsApi/Analytic
+2024-09-15 16:17:06,492 - FastIR - INFO - Processing evtx : Microsoft-Windows-Mobile-Broadband-Experience-Parser-Task/Operational
+2024-09-15 16:17:06,507 - FastIR - INFO - Processing evtx : Microsoft-Windows-Mobile-Broadband-Experience-Parser-Task/Analytic
+2024-09-15 16:17:06,507 - FastIR - INFO - Processing evtx : Microsoft-Windows-Mobile-Broadband-Experience-Api/Analytic
+2024-09-15 16:17:06,523 - FastIR - INFO - Processing evtx : Microsoft-Windows-Mobile-Broadband-Experience-Api-Internal/Analytic
+2024-09-15 16:17:06,539 - FastIR - INFO - Processing evtx : Microsoft-Windows-Minstore/Debug
+2024-09-15 16:17:06,555 - FastIR - INFO - Processing evtx : Microsoft-Windows-Minstore/Analytic
+2024-09-15 16:17:06,569 - FastIR - INFO - Processing evtx : Microsoft-Windows-MemoryDiagnostics-Results/Debug
+2024-09-15 16:17:06,569 - FastIR - INFO - Processing evtx : Microsoft-Windows-MediaFoundation-PlayAPI/Analytic
+2024-09-15 16:17:06,585 - FastIR - INFO - Processing evtx : Microsoft-Windows-MediaFoundation-Performance/SARStreamResource
+2024-09-15 16:17:06,601 - FastIR - INFO - Processing evtx : Microsoft-Windows-MediaFoundation-MFReadWrite/Transform
+2024-09-15 16:17:06,617 - FastIR - INFO - Processing evtx : Microsoft-Windows-MediaFoundation-MFReadWrite/SourceReader
+2024-09-15 16:17:06,617 - FastIR - INFO - Processing evtx : Microsoft-Windows-MediaFoundation-MFReadWrite/SinkWriter
+2024-09-15 16:17:06,632 - FastIR - INFO - Processing evtx : Microsoft-Windows-MediaFoundation-MFCaptureEngine/MFCaptureEngine
+2024-09-15 16:17:06,648 - FastIR - INFO - Processing evtx : Microsoft-Windows-Media-Streaming/MDE
+2024-09-15 16:17:06,664 - FastIR - INFO - Processing evtx : Microsoft-Windows-Media-Streaming/DMR
+2024-09-15 16:17:06,664 - FastIR - INFO - Processing evtx : Microsoft-Windows-Media-Streaming/DMC
+2024-09-15 16:17:06,680 - FastIR - INFO - Processing evtx : Microsoft-Windows-LUA-ConsentUI/Diagnostic
+2024-09-15 16:17:06,696 - FastIR - INFO - Processing evtx : Microsoft-Windows-LSA/Performance
+2024-09-15 16:17:06,710 - FastIR - INFO - Processing evtx : Microsoft-Windows-LSA/Operational
+2024-09-15 16:17:06,710 - FastIR - INFO - Processing evtx : Microsoft-Windows-LSA/Diagnostic
+2024-09-15 16:17:06,835 - FastIR - INFO - Processing evtx : Microsoft-Windows-LiveId/Operational
+2024-09-15 16:17:06,851 - FastIR - INFO - Processing evtx : Microsoft-Windows-LiveId/Analytic
+2024-09-15 16:17:06,867 - FastIR - INFO - Processing evtx : Microsoft-Windows-LinkLayerDiscoveryProtocol/Operational
+2024-09-15 16:17:06,882 - FastIR - INFO - Processing evtx : Microsoft-Windows-LinkLayerDiscoveryProtocol/Diagnostic
+2024-09-15 16:17:06,882 - FastIR - INFO - Processing evtx : Microsoft-Windows-LimitsManagement/Diagnostic
+2024-09-15 16:17:06,898 - FastIR - INFO - Processing evtx : Microsoft-Windows-LDAP-Client/Debug
+2024-09-15 16:17:06,914 - FastIR - INFO - Processing evtx : Microsoft-Windows-LAPS/Operational
+2024-09-15 16:17:06,930 - FastIR - INFO - Processing evtx : Microsoft-Windows-LanguagePackSetup/Operational
+2024-09-15 16:17:06,946 - FastIR - INFO - Processing evtx : Microsoft-Windows-LanguagePackSetup/Debug
+2024-09-15 16:17:06,946 - FastIR - INFO - Processing evtx : Microsoft-Windows-LanguagePackSetup/Analytic
+2024-09-15 16:17:06,960 - FastIR - INFO - Processing evtx : Microsoft-Windows-L2NA/Diagnostic
+2024-09-15 16:17:06,976 - FastIR - INFO - Processing evtx : Microsoft-Windows-Known Folders API Service
+2024-09-15 16:17:07,007 - FastIR - INFO - Processing evtx : Microsoft-Windows-KeyboardFilter/Performance
+2024-09-15 16:17:07,023 - FastIR - INFO - Processing evtx : Microsoft-Windows-KeyboardFilter/Operational
+2024-09-15 16:17:07,023 - FastIR - INFO - Processing evtx : Microsoft-Windows-KeyboardFilter/Admin
+2024-09-15 16:17:07,039 - FastIR - INFO - Processing evtx : Microsoft-Windows-Kernel-XDV/Analytic
+2024-09-15 16:17:07,055 - FastIR - INFO - Processing evtx : Microsoft-Windows-Kernel-WHEA/Operational
+2024-09-15 16:17:07,101 - FastIR - INFO - Processing evtx : Microsoft-Windows-Kernel-WHEA/Errors
+2024-09-15 16:17:07,117 - FastIR - INFO - Processing evtx : Microsoft-Windows-Kernel-WDI/Operational
+2024-09-15 16:17:07,132 - FastIR - INFO - Processing evtx : Microsoft-Windows-Kernel-WDI/Debug
+2024-09-15 16:17:07,132 - FastIR - INFO - Processing evtx : Microsoft-Windows-Kernel-WDI/Analytic
+2024-09-15 16:17:07,148 - FastIR - INFO - Processing evtx : Microsoft-Windows-Kernel-StoreMgr/Operational
+2024-09-15 16:17:07,164 - FastIR - INFO - Processing evtx : Microsoft-Windows-Kernel-StoreMgr/Analytic
+2024-09-15 16:17:07,226 - FastIR - INFO - Processing evtx : Microsoft-Windows-Kernel-ShimEngine/Operational
+2024-09-15 16:17:07,273 - FastIR - INFO - Processing evtx : Microsoft-Windows-Kernel-ShimEngine/Diagnostic
+2024-09-15 16:17:07,321 - FastIR - INFO - Processing evtx : Microsoft-Windows-Kernel-ShimEngine/Debug
+2024-09-15 16:17:07,335 - FastIR - INFO - Processing evtx : Microsoft-Windows-Kernel-Registry/Performance
+2024-09-15 16:17:07,335 - FastIR - INFO - Processing evtx : Microsoft-Windows-Kernel-Registry/Analytic
+2024-09-15 16:17:07,351 - FastIR - INFO - Processing evtx : Microsoft-Windows-Kernel-Processor-Power/Diagnostic
+2024-09-15 16:17:07,367 - FastIR - INFO - Processing evtx : Microsoft-Windows-Kernel-Process/Analytic
+2024-09-15 16:17:07,382 - FastIR - INFO - Processing evtx : Microsoft-Windows-Kernel-PRM/Operational
+2024-09-15 16:17:07,398 - FastIR - INFO - Processing evtx : Microsoft-Windows-Kernel-Prefetch/Diagnostic
+2024-09-15 16:17:07,398 - FastIR - INFO - Processing evtx : Microsoft-Windows-Kernel-Power/Thermal-Operational
+2024-09-15 16:17:07,414 - FastIR - INFO - Processing evtx : Microsoft-Windows-Kernel-Power/Thermal-Diagnostic
+2024-09-15 16:17:07,430 - FastIR - INFO - Processing evtx : Microsoft-Windows-Kernel-Power/Diagnostic
+2024-09-15 16:17:07,446 - FastIR - INFO - Processing evtx : Microsoft-Windows-Kernel-PnP/Driver Watchdog
+2024-09-15 16:17:07,446 - FastIR - INFO - Processing evtx : Microsoft-Windows-Kernel-PnP/Driver Diagnostic
+2024-09-15 16:17:07,460 - FastIR - INFO - Processing evtx : Microsoft-Windows-Kernel-PnP/Device Management
+2024-09-15 16:17:07,539 - FastIR - INFO - Processing evtx : Microsoft-Windows-Kernel-PnP/Device Enumeration Diagnostic
+2024-09-15 16:17:07,539 - FastIR - INFO - Processing evtx : Microsoft-Windows-Kernel-PnP/Configuration Diagnostic
+2024-09-15 16:17:07,555 - FastIR - INFO - Processing evtx : Microsoft-Windows-Kernel-PnP/Configuration
+2024-09-15 16:17:07,585 - FastIR - INFO - Processing evtx : Microsoft-Windows-Kernel-PnP/Boot Diagnostic
+2024-09-15 16:17:07,601 - FastIR - INFO - Processing evtx : Microsoft-Windows-Kernel-Pep/Diagnostic
+2024-09-15 16:17:07,617 - FastIR - INFO - Processing evtx : Microsoft-Windows-Kernel-Pdc/Diagnostic
+2024-09-15 16:17:07,632 - FastIR - INFO - Processing evtx : Microsoft-Windows-Kernel-Network/Analytic
+2024-09-15 16:17:07,632 - FastIR - INFO - Processing evtx : Microsoft-Windows-Kernel-Memory/Analytic
+2024-09-15 16:17:07,648 - FastIR - INFO - Processing evtx : Microsoft-Windows-Kernel-LiveDump/Operational
+2024-09-15 16:17:07,664 - FastIR - INFO - Processing evtx : Microsoft-Windows-Kernel-LiveDump/Analytic
+2024-09-15 16:17:07,680 - FastIR - INFO - Processing evtx : Microsoft-Windows-Kernel-IoTrace/Diagnostic
+2024-09-15 16:17:07,680 - FastIR - INFO - Processing evtx : Microsoft-Windows-Kernel-IO/Operational
+2024-09-15 16:17:07,694 - FastIR - INFO - Processing evtx : Microsoft-Windows-Kernel-Interrupt-Steering/Diagnostic
+2024-09-15 16:17:07,710 - FastIR - INFO - Processing evtx : Microsoft-Windows-Kernel-File/Analytic
+2024-09-15 16:17:07,726 - FastIR - INFO - Processing evtx : Microsoft-Windows-Kernel-EventTracing/Analytic
+2024-09-15 16:17:07,726 - FastIR - INFO - Processing evtx : Microsoft-Windows-Kernel-EventTracing/Admin
+2024-09-15 16:17:07,757 - FastIR - INFO - Processing evtx : Microsoft-Windows-Kernel-Dump/Operational
+2024-09-15 16:17:07,773 - FastIR - INFO - Processing evtx : Microsoft-Windows-Kernel-Disk/Analytic
+2024-09-15 16:17:07,773 - FastIR - INFO - Processing evtx : Microsoft-Windows-Kernel-CPU-Starvation/Operational
+2024-09-15 16:17:07,789 - FastIR - INFO - Processing evtx : Microsoft-Windows-Kernel-Cache/Operational
+2024-09-15 16:17:07,819 - FastIR - INFO - Processing evtx : Microsoft-Windows-Kernel-BootDiagnostics/Diagnostic
+2024-09-15 16:17:07,835 - FastIR - INFO - Processing evtx : Microsoft-Windows-Kernel-Boot/Operational
+2024-09-15 16:17:07,851 - FastIR - INFO - Processing evtx : Microsoft-Windows-Kernel-Boot/Analytic
+2024-09-15 16:17:07,867 - FastIR - INFO - Processing evtx : Microsoft-Windows-Kernel-ApphelpCache/Operational
+2024-09-15 16:17:07,867 - FastIR - INFO - Processing evtx : Microsoft-Windows-Kernel-ApphelpCache/Debug
+2024-09-15 16:17:07,882 - FastIR - INFO - Processing evtx : Microsoft-Windows-Kernel-ApphelpCache/Analytic
+2024-09-15 16:17:07,898 - FastIR - INFO - Processing evtx : Microsoft-Windows-Kernel-AppCompat/Performance
+2024-09-15 16:17:07,914 - FastIR - INFO - Processing evtx : Microsoft-Windows-Kernel-AppCompat/General
+2024-09-15 16:17:07,930 - FastIR - INFO - Processing evtx : Microsoft-Windows-Kernel-Acpi/Diagnostic
+2024-09-15 16:17:07,930 - FastIR - INFO - Processing evtx : Microsoft-Windows-Kerberos/Operational
+2024-09-15 16:17:07,944 - FastIR - INFO - Processing evtx : Microsoft-Windows-KdsSvc/Operational
+2024-09-15 16:17:07,960 - FastIR - INFO - Processing evtx : Microsoft-Windows-IPxlatCfg/Operational
+2024-09-15 16:17:07,976 - FastIR - INFO - Processing evtx : Microsoft-Windows-IPxlatCfg/Debug
+2024-09-15 16:17:07,976 - FastIR - INFO - Processing evtx : Microsoft-Windows-IPSEC-SRV/Diagnostic
+2024-09-15 16:17:07,992 - FastIR - INFO - Processing evtx : Microsoft-Windows-IPNAT/Diagnostic
+2024-09-15 16:17:08,007 - FastIR - INFO - Processing evtx : Microsoft-Windows-Iphlpsvc/Trace
+2024-09-15 16:17:08,023 - FastIR - INFO - Processing evtx : Microsoft-Windows-Iphlpsvc/Operational
+2024-09-15 16:17:08,023 - FastIR - INFO - Processing evtx : Microsoft-Windows-Iphlpsvc/Debug
+2024-09-15 16:17:08,039 - FastIR - INFO - Processing evtx : Microsoft-Windows-International-RegionalOptionsControlPanel/Operational
+2024-09-15 16:17:08,055 - FastIR - INFO - Processing evtx : Microsoft-Windows-InputSwitch/Diagnostic
+2024-09-15 16:17:08,069 - FastIR - INFO - Processing evtx : Microsoft-Windows-Input-HIDCLASS-Analytic
+2024-09-15 16:17:08,069 - FastIR - INFO - Processing evtx : Microsoft-Windows-IndirectDisplays-ClassExtension-Events/Diagnostic
+2024-09-15 16:17:08,085 - FastIR - INFO - Processing evtx : Microsoft-Windows-IME-TIP/Analytic
+2024-09-15 16:17:08,101 - FastIR - INFO - Processing evtx : Microsoft-Windows-IME-TCTIP/Analytic
+2024-09-15 16:17:08,117 - FastIR - INFO - Processing evtx : Microsoft-Windows-IME-TCCORE/Analytic
+2024-09-15 16:17:08,132 - FastIR - INFO - Processing evtx : Microsoft-Windows-IME-OEDCompiler/Analytic
+2024-09-15 16:17:08,132 - FastIR - INFO - Processing evtx : Microsoft-Windows-IME-KRTIP/Analytic
+2024-09-15 16:17:08,148 - FastIR - INFO - Processing evtx : Microsoft-Windows-IME-KRAPI/Analytic
+2024-09-15 16:17:08,164 - FastIR - INFO - Processing evtx : Microsoft-Windows-IME-JPTIP/Analytic
+2024-09-15 16:17:08,180 - FastIR - INFO - Processing evtx : Microsoft-Windows-IME-JPSetting/Analytic
+2024-09-15 16:17:08,180 - FastIR - INFO - Processing evtx : Microsoft-Windows-IME-JPPRED/Analytic
+2024-09-15 16:17:08,194 - FastIR - INFO - Processing evtx : Microsoft-Windows-IME-JPLMP/Analytic
+2024-09-15 16:17:08,210 - FastIR - INFO - Processing evtx : Microsoft-Windows-IME-JPAPI/Analytic
+2024-09-15 16:17:08,226 - FastIR - INFO - Processing evtx : Microsoft-Windows-IME-CustomerFeedbackManagerUI/Analytic
+2024-09-15 16:17:08,226 - FastIR - INFO - Processing evtx : Microsoft-Windows-IME-CustomerFeedbackManager/Debug
+2024-09-15 16:17:08,242 - FastIR - INFO - Processing evtx : Microsoft-Windows-IME-CandidateUI/Analytic
+2024-09-15 16:17:08,257 - FastIR - INFO - Processing evtx : Microsoft-Windows-IME-Broker/Analytic
+2024-09-15 16:17:08,273 - FastIR - INFO - Processing evtx : Microsoft-Windows-IKEDBG/Debug
+2024-09-15 16:17:08,289 - FastIR - INFO - Processing evtx : Microsoft-Windows-IKE/Operational
+2024-09-15 16:17:08,289 - FastIR - INFO - Processing evtx : Microsoft-Windows-IE-SmartScreen
+2024-09-15 16:17:08,305 - FastIR - INFO - Processing evtx : Microsoft-Windows-IdCtrls/Operational
+2024-09-15 16:17:08,319 - FastIR - INFO - Processing evtx : Microsoft-Windows-IdCtrls/Analytic
+2024-09-15 16:17:08,335 - FastIR - INFO - Processing evtx : Microsoft-Windows-Hyper-V-VID-Analytic
+2024-09-15 16:17:08,335 - FastIR - INFO - Processing evtx : Microsoft-Windows-Hyper-V-VID-Admin
+2024-09-15 16:17:08,351 - FastIR - INFO - Processing evtx : Microsoft-Windows-Hyper-V-NETVSC/Diagnostic
+2024-09-15 16:17:08,367 - FastIR - INFO - Processing evtx : Microsoft-Windows-Hyper-V-KMCL-Child/Analytic
+2024-09-15 16:17:08,382 - FastIR - INFO - Processing evtx : Microsoft-Windows-Hyper-V-Hypervisor-Operational
+2024-09-15 16:17:08,382 - FastIR - INFO - Processing evtx : Microsoft-Windows-Hyper-V-Hypervisor-Analytic
+2024-09-15 16:17:08,398 - FastIR - INFO - Processing evtx : Microsoft-Windows-Hyper-V-Hypervisor-Admin
+2024-09-15 16:17:08,414 - FastIR - INFO - Processing evtx : Microsoft-Windows-Hyper-V-Guest-Drivers/Operational
+2024-09-15 16:17:08,430 - FastIR - INFO - Processing evtx : Microsoft-Windows-Hyper-V-Guest-Drivers/Diagnose
+2024-09-15 16:17:08,444 - FastIR - INFO - Processing evtx : Microsoft-Windows-Hyper-V-Guest-Drivers/Debug
+2024-09-15 16:17:08,446 - FastIR - INFO - Processing evtx : Microsoft-Windows-Hyper-V-Guest-Drivers/Analytic
+2024-09-15 16:17:08,460 - FastIR - INFO - Processing evtx : Microsoft-Windows-Hyper-V-Guest-Drivers/Admin
+2024-09-15 16:17:08,476 - FastIR - INFO - Processing evtx : Microsoft-Windows-HttpService/Trace
+2024-09-15 16:17:08,493 - FastIR - INFO - Processing evtx : Microsoft-Windows-HttpService/Log
+2024-09-15 16:17:08,493 - FastIR - INFO - Processing evtx : Microsoft-Windows-HotspotAuth/Operational
+2024-09-15 16:17:08,507 - FastIR - INFO - Processing evtx : Microsoft-Windows-HotspotAuth/Analytic
+2024-09-15 16:17:08,523 - FastIR - INFO - Processing evtx : Microsoft-Windows-HomeGroup-ListenerService
+2024-09-15 16:17:08,585 - FastIR - INFO - Processing evtx : Microsoft-Windows-HomeGroup Provider Service/Operational
+2024-09-15 16:17:08,632 - FastIR - INFO - Processing evtx : Microsoft-Windows-HomeGroup Provider Service Performance/Diagnostic
+2024-09-15 16:17:08,680 - FastIR - INFO - Processing evtx : Microsoft-Windows-HomeGroup Listener Service/Operational
+2024-09-15 16:17:08,696 - FastIR - INFO - Processing evtx : Microsoft-Windows-HomeGroup Control Panel/Operational
+2024-09-15 16:17:08,696 - FastIR - INFO - Processing evtx : Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic
+2024-09-15 16:17:08,710 - FastIR - INFO - Processing evtx : Microsoft-Windows-hidcfu/Operational
+2024-09-15 16:17:08,726 - FastIR - INFO - Processing evtx : Microsoft-Windows-Help/Operational
+2024-09-15 16:17:08,835 - FastIR - INFO - Processing evtx : Microsoft-Windows-HelloForBusiness/Operational
+2024-09-15 16:17:08,868 - FastIR - INFO - Processing evtx : Microsoft-Windows-HelloForBusiness/Debug
+2024-09-15 16:17:08,882 - FastIR - INFO - Processing evtx : Microsoft-Windows-HealthCenterCPL/Performance
+2024-09-15 16:17:08,898 - FastIR - INFO - Processing evtx : Microsoft-Windows-HealthCenter/Performance
+2024-09-15 16:17:08,914 - FastIR - INFO - Processing evtx : Microsoft-Windows-HealthCenter/Debug
+2024-09-15 16:17:08,914 - FastIR - INFO - Processing evtx : Microsoft-Windows-HAL/Debug
+2024-09-15 16:17:08,930 - FastIR - INFO - Processing evtx : Microsoft-Windows-GroupPolicy/Operational
+2024-09-15 16:17:09,023 - FastIR - INFO - Processing evtx : Microsoft-Windows-GPIO-ClassExtension/Analytic
+2024-09-15 16:17:09,039 - FastIR - INFO - Processing evtx : Microsoft-Windows-glcnd/Diagnostic
+2024-09-15 16:17:09,039 - FastIR - INFO - Processing evtx : Microsoft-Windows-glcnd/Debug
+2024-09-15 16:17:09,055 - FastIR - INFO - Processing evtx : Microsoft-Windows-glcnd/Admin
+2024-09-15 16:17:09,071 - FastIR - INFO - Processing evtx : Microsoft-Windows-GenericRoaming/Admin
+2024-09-15 16:17:09,085 - FastIR - INFO - Processing evtx : Microsoft-Windows-Forwarding/Operational
+2024-09-15 16:17:09,085 - FastIR - INFO - Processing evtx : Microsoft-Windows-Forwarding/Debug
+2024-09-15 16:17:09,101 - FastIR - INFO - Processing evtx : Microsoft-Windows-Folder Redirection/Operational
+2024-09-15 16:17:09,118 - FastIR - INFO - Processing evtx : Microsoft-Windows-FMS/Operational
+2024-09-15 16:17:09,132 - FastIR - INFO - Processing evtx : Microsoft-Windows-FMS/Debug
+2024-09-15 16:17:09,148 - FastIR - INFO - Processing evtx : Microsoft-Windows-FMS/Analytic
+2024-09-15 16:17:09,148 - FastIR - INFO - Processing evtx : Microsoft-Windows-Firewall-CPL/Diagnostic
+2024-09-15 16:17:09,164 - FastIR - INFO - Processing evtx : Microsoft-Windows-FileInfoMinifilter/Operational
+2024-09-15 16:17:09,180 - FastIR - INFO - Processing evtx : Microsoft-Windows-FileHistory-UI-Events/Debug
+2024-09-15 16:17:09,196 - FastIR - INFO - Processing evtx : Microsoft-Windows-FileHistory-UI-Events/Analytic
+2024-09-15 16:17:09,196 - FastIR - INFO - Processing evtx : Microsoft-Windows-FileHistory-Service/Debug
+2024-09-15 16:17:09,210 - FastIR - INFO - Processing evtx : Microsoft-Windows-FileHistory-Service/Analytic
+2024-09-15 16:17:09,226 - FastIR - INFO - Processing evtx : Microsoft-Windows-FileHistory-EventListener/Debug
+2024-09-15 16:17:09,243 - FastIR - INFO - Processing evtx : Microsoft-Windows-FileHistory-EventListener/Analytic
+2024-09-15 16:17:09,243 - FastIR - INFO - Processing evtx : Microsoft-Windows-FileHistory-Engine/Debug
+2024-09-15 16:17:09,257 - FastIR - INFO - Processing evtx : Microsoft-Windows-FileHistory-Engine/BackupLog
+2024-09-15 16:17:09,273 - FastIR - INFO - Processing evtx : Microsoft-Windows-FileHistory-Engine/Analytic
+2024-09-15 16:17:09,289 - FastIR - INFO - Processing evtx : Microsoft-Windows-FileHistory-Core/WHC
+2024-09-15 16:17:09,289 - FastIR - INFO - Processing evtx : Microsoft-Windows-FileHistory-Core/Debug
+2024-09-15 16:17:09,305 - FastIR - INFO - Processing evtx : Microsoft-Windows-FileHistory-Core/Analytic
+2024-09-15 16:17:09,321 - FastIR - INFO - Processing evtx : Microsoft-Windows-FileHistory-ConfigManager/Debug
+2024-09-15 16:17:09,335 - FastIR - INFO - Processing evtx : Microsoft-Windows-FileHistory-ConfigManager/Analytic
+2024-09-15 16:17:09,351 - FastIR - INFO - Processing evtx : Microsoft-Windows-FileHistory-Catalog/Debug
+2024-09-15 16:17:09,351 - FastIR - INFO - Processing evtx : Microsoft-Windows-FileHistory-Catalog/Analytic
+2024-09-15 16:17:09,368 - FastIR - INFO - Processing evtx : Microsoft-Windows-Feedback-Service-TriggerProvider
+2024-09-15 16:17:09,382 - FastIR - INFO - Processing evtx : Microsoft-Windows-FeatureConfiguration/Operational
+2024-09-15 16:17:09,398 - FastIR - INFO - Processing evtx : Microsoft-Windows-FeatureConfiguration/Analytic
+2024-09-15 16:17:09,398 - FastIR - INFO - Processing evtx : Microsoft-Windows-Fault-Tolerant-Heap/Operational
+2024-09-15 16:17:09,414 - FastIR - INFO - Processing evtx : Microsoft-Windows-FailoverClustering-Client/Diagnostic
+2024-09-15 16:17:09,430 - FastIR - INFO - Processing evtx : Microsoft-Windows-EventLog/Debug
+2024-09-15 16:17:09,446 - FastIR - INFO - Processing evtx : Microsoft-Windows-EventLog/Analytic
+2024-09-15 16:17:09,446 - FastIR - INFO - Processing evtx : Microsoft-Windows-EventLog-WMIProvider/Debug
+2024-09-15 16:17:09,460 - FastIR - INFO - Processing evtx : Microsoft-Windows-EventCollector/Operational
+2024-09-15 16:17:09,476 - FastIR - INFO - Processing evtx : Microsoft-Windows-EventCollector/Debug
+2024-09-15 16:17:09,493 - FastIR - INFO - Processing evtx : Microsoft-Windows-ESE/Operational
+2024-09-15 16:17:09,507 - FastIR - INFO - Processing evtx : Microsoft-Windows-ESE/IODiagnose
+2024-09-15 16:17:09,507 - FastIR - INFO - Processing evtx : Microsoft-Windows-EnhancedStorage-EhStorTcgDrv/Analytic
+2024-09-15 16:17:09,523 - FastIR - INFO - Processing evtx : Microsoft-Windows-EnhancedStorage-EhStorClass/Operational
+2024-09-15 16:17:09,555 - FastIR - INFO - Processing evtx : Microsoft-Windows-Energy-Estimation-Engine/Trace
+2024-09-15 16:17:09,571 - FastIR - INFO - Processing evtx : Microsoft-Windows-Energy-Estimation-Engine/EventLog
+2024-09-15 16:17:09,585 - FastIR - INFO - Processing evtx : Microsoft-Windows-EFS/Operational
+2024-09-15 16:17:09,601 - FastIR - INFO - Processing evtx : Microsoft-Windows-EFS/Debug
+2024-09-15 16:17:09,601 - FastIR - INFO - Processing evtx : Microsoft-Windows-EDP-Audit-TCB/Admin
+2024-09-15 16:17:09,618 - FastIR - INFO - Processing evtx : Microsoft-Windows-EDP-Audit-Regular/Admin
+2024-09-15 16:17:09,632 - FastIR - INFO - Processing evtx : Microsoft-Windows-EDP-Application-Learning/Admin
+2024-09-15 16:17:09,648 - FastIR - INFO - Processing evtx : Microsoft-Windows-EaseOfAccess/Diagnostic
+2024-09-15 16:17:09,648 - FastIR - INFO - Processing evtx : Microsoft-Windows-EapMethods-Ttls/Operational
+2024-09-15 16:17:09,664 - FastIR - INFO - Processing evtx : Microsoft-Windows-EapMethods-Sim/Operational
+2024-09-15 16:17:09,680 - FastIR - INFO - Processing evtx : Microsoft-Windows-EapMethods-RasTls/Operational
+2024-09-15 16:17:09,696 - FastIR - INFO - Processing evtx : Microsoft-Windows-EapMethods-RasChap/Operational
+2024-09-15 16:17:09,710 - FastIR - INFO - Processing evtx : Microsoft-Windows-EapHost/Operational
+2024-09-15 16:17:09,710 - FastIR - INFO - Processing evtx : Microsoft-Windows-EapHost/Debug
+2024-09-15 16:17:09,726 - FastIR - INFO - Processing evtx : Microsoft-Windows-EapHost/Analytic
+2024-09-15 16:17:09,743 - FastIR - INFO - Processing evtx : Microsoft-Windows-DxpTaskSyncProvider/Analytic
+2024-09-15 16:17:09,757 - FastIR - INFO - Processing evtx : Microsoft-Windows-DXP/Analytic
+2024-09-15 16:17:09,757 - FastIR - INFO - Processing evtx : Microsoft-Windows-DxgKrnl/Power
+2024-09-15 16:17:09,773 - FastIR - INFO - Processing evtx : Microsoft-Windows-DxgKrnl/Performance
+2024-09-15 16:17:09,789 - FastIR - INFO - Processing evtx : Microsoft-Windows-DxgKrnl/Diagnostic
+2024-09-15 16:17:09,805 - FastIR - INFO - Processing evtx : Microsoft-Windows-DxgKrnl/Contention
+2024-09-15 16:17:09,805 - FastIR - INFO - Processing evtx : Microsoft-Windows-DxgKrnl-SysMm/Performance
+2024-09-15 16:17:09,821 - FastIR - INFO - Processing evtx : Microsoft-Windows-DxgKrnl-SysMm/Debug
+2024-09-15 16:17:09,835 - FastIR - INFO - Processing evtx : Microsoft-Windows-DxgKrnl-Operational
+2024-09-15 16:17:09,851 - FastIR - INFO - Processing evtx : Microsoft-Windows-DxgKrnl-Admin
+2024-09-15 16:17:09,868 - FastIR - INFO - Processing evtx : Microsoft-Windows-DXGI/Logging
+2024-09-15 16:17:09,868 - FastIR - INFO - Processing evtx : Microsoft-Windows-DXGI/Analytic
+2024-09-15 16:17:09,882 - FastIR - INFO - Processing evtx : Microsoft-Windows-Dwm-Udwm/Diagnostic
+2024-09-15 16:17:09,946 - FastIR - INFO - Processing evtx : Microsoft-Windows-Dwm-Redir/Diagnostic
+2024-09-15 16:17:09,993 - FastIR - INFO - Processing evtx : Microsoft-Windows-Dwm-Dwm/Diagnostic
+2024-09-15 16:17:10,023 - FastIR - INFO - Processing evtx : Microsoft-Windows-Dwm-Core/Diagnostic
+2024-09-15 16:17:10,039 - FastIR - INFO - Processing evtx : Microsoft-Windows-Dwm-Compositor/Diagnostic
+2024-09-15 16:17:10,055 - FastIR - INFO - Processing evtx : Microsoft-Windows-Dwm-API/Diagnostic
+2024-09-15 16:17:10,071 - FastIR - INFO - Processing evtx : Microsoft-Windows-DUSER/Diagnostic
+2024-09-15 16:17:10,085 - FastIR - INFO - Processing evtx : Microsoft-Windows-DUI/Diagnostic
+2024-09-15 16:17:10,085 - FastIR - INFO - Processing evtx : Microsoft-Windows-DucUpdateAgent/Operational
+2024-09-15 16:17:10,101 - FastIR - INFO - Processing evtx : Microsoft-Windows-DSC/Operational
+2024-09-15 16:17:10,118 - FastIR - INFO - Processing evtx : Microsoft-Windows-DSC/Debug
+2024-09-15 16:17:10,132 - FastIR - INFO - Processing evtx : Microsoft-Windows-DSC/Analytic
+2024-09-15 16:17:10,148 - FastIR - INFO - Processing evtx : Microsoft-Windows-DSC/Admin
+2024-09-15 16:17:10,148 - FastIR - INFO - Processing evtx : Microsoft-Windows-DriverFrameworks-UserMode/Operational
+2024-09-15 16:17:10,164 - FastIR - INFO - Processing evtx : Microsoft-Windows-Dot3MM/Diagnostic
+2024-09-15 16:17:10,180 - FastIR - INFO - Processing evtx : Microsoft-Windows-Documents/Performance
+2024-09-15 16:17:10,196 - FastIR - INFO - Processing evtx : Microsoft-Windows-DNS-Client/Operational
+2024-09-15 16:17:10,196 - FastIR - INFO - Processing evtx : Microsoft-Windows-DLNA-Namespace/Analytic
+2024-09-15 16:17:10,210 - FastIR - INFO - Processing evtx : Microsoft-Windows-DisplaySwitch/Diagnostic
+2024-09-15 16:17:10,226 - FastIR - INFO - Processing evtx : Microsoft-Windows-DisplayColorCalibration/Operational
+2024-09-15 16:17:10,243 - FastIR - INFO - Processing evtx : Microsoft-Windows-DisplayColorCalibration/Debug
+2024-09-15 16:17:10,257 - FastIR - INFO - Processing evtx : Microsoft-Windows-Dism-Cli/Analytic
+2024-09-15 16:17:10,257 - FastIR - INFO - Processing evtx : Microsoft-Windows-Dism-Api/InternalAnalytic
+2024-09-15 16:17:10,273 - FastIR - INFO - Processing evtx : Microsoft-Windows-Dism-Api/ExternalAnalytic
+2024-09-15 16:17:10,289 - FastIR - INFO - Processing evtx : Microsoft-Windows-Dism-Api/Analytic
+2024-09-15 16:17:10,305 - FastIR - INFO - Processing evtx : Microsoft-Windows-DiskDiagnosticResolver/Operational
+2024-09-15 16:17:10,305 - FastIR - INFO - Processing evtx : Microsoft-Windows-DiskDiagnosticDataCollector/Operational
+2024-09-15 16:17:10,321 - FastIR - INFO - Processing evtx : Microsoft-Windows-DiskDiagnostic/Operational
+2024-09-15 16:17:10,335 - FastIR - INFO - Processing evtx : Microsoft-Windows-Disk/Operational
+2024-09-15 16:17:10,351 - FastIR - INFO - Processing evtx : Microsoft-Windows-DirectSound/Debug
+2024-09-15 16:17:10,351 - FastIR - INFO - Processing evtx : Microsoft-Windows-DirectShow-KernelSupport/Performance
+2024-09-15 16:17:10,368 - FastIR - INFO - Processing evtx : Microsoft-Windows-DirectManipulation/Diagnostic
+2024-09-15 16:17:10,382 - FastIR - INFO - Processing evtx : Microsoft-Windows-DirectComposition/Diagnostic
+2024-09-15 16:17:10,398 - FastIR - INFO - Processing evtx : Microsoft-Windows-Direct3DShaderCache/Default
+2024-09-15 16:17:10,398 - FastIR - INFO - Processing evtx : Microsoft-Windows-Direct3D9/Analytic
+2024-09-15 16:17:10,414 - FastIR - INFO - Processing evtx : Microsoft-Windows-Direct3D12/PerfTiming
+2024-09-15 16:17:10,430 - FastIR - INFO - Processing evtx : Microsoft-Windows-Direct3D12/Logging
+2024-09-15 16:17:10,446 - FastIR - INFO - Processing evtx : Microsoft-Windows-Direct3D12/Analytic
+2024-09-15 16:17:10,460 - FastIR - INFO - Processing evtx : Microsoft-Windows-Direct3D11/PerfTiming
+2024-09-15 16:17:10,460 - FastIR - INFO - Processing evtx : Microsoft-Windows-Direct3D11/Logging
+2024-09-15 16:17:10,476 - FastIR - INFO - Processing evtx : Microsoft-Windows-Direct3D11/Analytic
+2024-09-15 16:17:10,493 - FastIR - INFO - Processing evtx : Microsoft-Windows-Direct3D10_1/Analytic
+2024-09-15 16:17:10,507 - FastIR - INFO - Processing evtx : Microsoft-Windows-Direct3D10/Analytic
+2024-09-15 16:17:10,507 - FastIR - INFO - Processing evtx : Microsoft-Windows-Diagnostics-PerfTrack/Diagnostic
+2024-09-15 16:17:10,523 - FastIR - INFO - Processing evtx : Microsoft-Windows-Diagnostics-PerfTrack-Counters/Diagnostic
+2024-09-15 16:17:10,539 - FastIR - INFO - Processing evtx : Microsoft-Windows-Diagnostics-Performance/Operational
+2024-09-15 16:17:10,555 - FastIR - INFO - Processing evtx : Microsoft-Windows-Diagnostics-Performance/Diagnostic/Loopback
+2024-09-15 16:17:10,571 - FastIR - INFO - Processing evtx : Microsoft-Windows-Diagnostics-Performance/Diagnostic
+2024-09-15 16:17:10,585 - FastIR - INFO - Processing evtx : Microsoft-Windows-Diagnostics-Networking/Operational
+2024-09-15 16:17:10,601 - FastIR - INFO - Processing evtx : Microsoft-Windows-Diagnostics-Networking/Debug
+2024-09-15 16:17:10,710 - FastIR - INFO - Processing evtx : Microsoft-Windows-Diagnosis-WDI/Debug
+2024-09-15 16:17:10,726 - FastIR - INFO - Processing evtx : Microsoft-Windows-Diagnosis-WDC/Analytic
+2024-09-15 16:17:10,726 - FastIR - INFO - Processing evtx : Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational
+2024-09-15 16:17:10,743 - FastIR - INFO - Processing evtx : Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Debug
+2024-09-15 16:17:10,757 - FastIR - INFO - Processing evtx : Microsoft-Windows-Diagnosis-Scripted/Operational
+2024-09-15 16:17:10,773 - FastIR - INFO - Processing evtx : Microsoft-Windows-Diagnosis-Scripted/Debug
+2024-09-15 16:17:10,773 - FastIR - INFO - Processing evtx : Microsoft-Windows-Diagnosis-Scripted/Analytic
+2024-09-15 16:17:10,789 - FastIR - INFO - Processing evtx : Microsoft-Windows-Diagnosis-Scripted/Admin
+2024-09-15 16:17:10,805 - FastIR - INFO - Processing evtx : Microsoft-Windows-Diagnosis-Scheduled/Operational
+2024-09-15 16:17:10,821 - FastIR - INFO - Processing evtx : Microsoft-Windows-Diagnosis-PLA/Operational
+2024-09-15 16:17:10,821 - FastIR - INFO - Processing evtx : Microsoft-Windows-Diagnosis-PLA/Debug
+2024-09-15 16:17:10,836 - FastIR - INFO - Processing evtx : Microsoft-Windows-Diagnosis-Perfhost/Analytic
+2024-09-15 16:17:10,851 - FastIR - INFO - Processing evtx : Microsoft-Windows-Diagnosis-PCW/Operational
+2024-09-15 16:17:10,884 - FastIR - INFO - Processing evtx : Microsoft-Windows-Diagnosis-PCW/Debug
+2024-09-15 16:17:10,898 - FastIR - INFO - Processing evtx : Microsoft-Windows-Diagnosis-PCW/Analytic
+2024-09-15 16:17:10,914 - FastIR - INFO - Processing evtx : Microsoft-Windows-Diagnosis-MSDE/Debug
+2024-09-15 16:17:10,930 - FastIR - INFO - Processing evtx : Microsoft-Windows-Diagnosis-DPS/Operational
+2024-09-15 16:17:10,961 - FastIR - INFO - Processing evtx : Microsoft-Windows-Diagnosis-DPS/Debug
+2024-09-15 16:17:10,961 - FastIR - INFO - Processing evtx : Microsoft-Windows-Diagnosis-DPS/Analytic
+2024-09-15 16:17:10,976 - FastIR - INFO - Processing evtx : Microsoft-Windows-Diagnosis-AdvancedTaskManager/Analytic
+2024-09-15 16:17:10,993 - FastIR - INFO - Processing evtx : Microsoft-Windows-DiagCpl/Debug
+2024-09-15 16:17:11,009 - FastIR - INFO - Processing evtx : Microsoft-Windows-Dhcpv6-Client/Operational
+2024-09-15 16:17:11,023 - FastIR - INFO - Processing evtx : Microsoft-Windows-Dhcpv6-Client/Admin
+2024-09-15 16:17:11,023 - FastIR - INFO - Processing evtx : Microsoft-Windows-Dhcp-Client/Operational
+2024-09-15 16:17:11,039 - FastIR - INFO - Processing evtx : Microsoft-Windows-Dhcp-Client/Admin
+2024-09-15 16:17:11,071 - FastIR - INFO - Processing evtx : Microsoft-Windows-DeviceUx/Performance
+2024-09-15 16:17:11,086 - FastIR - INFO - Processing evtx : Microsoft-Windows-DeviceUx/Informational
+2024-09-15 16:17:11,101 - FastIR - INFO - Processing evtx : Microsoft-Windows-DeviceUpdateAgent/Operational
+2024-09-15 16:17:11,118 - FastIR - INFO - Processing evtx : Microsoft-Windows-DeviceSync/Operational
+2024-09-15 16:17:11,118 - FastIR - INFO - Processing evtx : Microsoft-Windows-DeviceSync/Analytic
+2024-09-15 16:17:11,134 - FastIR - INFO - Processing evtx : Microsoft-Windows-DeviceSetupManager/Operational
+2024-09-15 16:17:11,148 - FastIR - INFO - Processing evtx : Microsoft-Windows-DeviceSetupManager/Debug
+2024-09-15 16:17:11,164 - FastIR - INFO - Processing evtx : Microsoft-Windows-DeviceSetupManager/Analytic
+2024-09-15 16:17:11,164 - FastIR - INFO - Processing evtx : Microsoft-Windows-DeviceSetupManager/Admin
+2024-09-15 16:17:11,196 - FastIR - INFO - Processing evtx : Microsoft-Windows-Devices-Query/Performance
+2024-09-15 16:17:11,211 - FastIR - INFO - Processing evtx : Microsoft-Windows-Devices-Background/Operational
+2024-09-15 16:17:11,226 - FastIR - INFO - Processing evtx : Microsoft-Windows-DeviceManagement-Enterprise-Diagnostics-Provider/Operational
+2024-09-15 16:17:11,259 - FastIR - INFO - Processing evtx : Microsoft-Windows-DeviceManagement-Enterprise-Diagnostics-Provider/Debug
+2024-09-15 16:17:11,321 - FastIR - INFO - Processing evtx : Microsoft-Windows-DeviceManagement-Enterprise-Diagnostics-Provider/Autopilot
+2024-09-15 16:17:11,336 - FastIR - INFO - Processing evtx : Microsoft-Windows-DeviceManagement-Enterprise-Diagnostics-Provider/Admin
+2024-09-15 16:17:11,351 - FastIR - INFO - Processing evtx : Microsoft-Windows-DeviceGuard/Verbose
+2024-09-15 16:17:11,368 - FastIR - INFO - Processing evtx : Microsoft-Windows-DeviceGuard/Operational
+2024-09-15 16:17:11,398 - FastIR - INFO - Processing evtx : Microsoft-Windows-DeviceConfidence/Analytic
+2024-09-15 16:17:11,414 - FastIR - INFO - Processing evtx : Microsoft-Windows-DeviceAssociationService/Performance
+2024-09-15 16:17:11,414 - FastIR - INFO - Processing evtx : Microsoft-Windows-DesktopWindowManager-Diag/Diagnostic
+2024-09-15 16:17:11,430 - FastIR - INFO - Processing evtx : Microsoft-Windows-DesktopActivityModerator/Diagnostic
+2024-09-15 16:17:11,447 - FastIR - INFO - Processing evtx : Microsoft-Windows-Deplorch/Analytic
+2024-09-15 16:17:11,461 - FastIR - INFO - Processing evtx : Microsoft-Windows-Defrag-Core/Debug
+2024-09-15 16:17:11,461 - FastIR - INFO - Processing evtx : Microsoft-Windows-Deduplication/Scrubbing
+2024-09-15 16:17:11,477 - FastIR - INFO - Processing evtx : Microsoft-Windows-Deduplication/Performance
+2024-09-15 16:17:11,493 - FastIR - INFO - Processing evtx : Microsoft-Windows-Deduplication/Operational
+2024-09-15 16:17:11,509 - FastIR - INFO - Processing evtx : Microsoft-Windows-Deduplication/Diagnostic
+2024-09-15 16:17:11,509 - FastIR - INFO - Processing evtx : Microsoft-Windows-DDisplay/Logging
+2024-09-15 16:17:11,525 - FastIR - INFO - Processing evtx : Microsoft-Windows-DDisplay/Analytic
+2024-09-15 16:17:11,539 - FastIR - INFO - Processing evtx : Microsoft-Windows-DCLocator/Debug
+2024-09-15 16:17:11,555 - FastIR - INFO - Processing evtx : Microsoft-Windows-DateTimeControlPanel/Operational
+2024-09-15 16:17:11,555 - FastIR - INFO - Processing evtx : Microsoft-Windows-DateTimeControlPanel/Debug
+2024-09-15 16:17:11,572 - FastIR - INFO - Processing evtx : Microsoft-Windows-DateTimeControlPanel/Analytic
+2024-09-15 16:17:11,586 - FastIR - INFO - Processing evtx : Microsoft-Windows-DataIntegrityScan/CrashRecovery
+2024-09-15 16:17:11,602 - FastIR - INFO - Processing evtx : Microsoft-Windows-DataIntegrityScan/Admin
+2024-09-15 16:17:11,618 - FastIR - INFO - Processing evtx : Microsoft-Windows-Data-Pdf/Debug
+2024-09-15 16:17:11,618 - FastIR - INFO - Processing evtx : Microsoft-Windows-DAMM/Diagnostic
+2024-09-15 16:17:11,634 - FastIR - INFO - Processing evtx : Microsoft-Windows-DAL-Provider/Operational
+2024-09-15 16:17:11,650 - FastIR - INFO - Processing evtx : Microsoft-Windows-DAL-Provider/Analytic
+2024-09-15 16:17:11,664 - FastIR - INFO - Processing evtx : Microsoft-Windows-D3D10Level9/PerfTiming
+2024-09-15 16:17:11,664 - FastIR - INFO - Processing evtx : Microsoft-Windows-D3D10Level9/Analytic
+2024-09-15 16:17:11,680 - FastIR - INFO - Processing evtx : Microsoft-Windows-Crypto-RSAEnh/Analytic
+2024-09-15 16:17:11,697 - FastIR - INFO - Processing evtx : Microsoft-Windows-Crypto-RNG/Analytic
+2024-09-15 16:17:11,711 - FastIR - INFO - Processing evtx : Microsoft-Windows-Crypto-NCrypt/Operational
+2024-09-15 16:17:11,743 - FastIR - INFO - Processing evtx : Microsoft-Windows-Crypto-NCrypt/CertInUse
+2024-09-15 16:17:11,759 - FastIR - INFO - Processing evtx : Microsoft-Windows-Crypto-DSSEnh/Analytic
+2024-09-15 16:17:11,759 - FastIR - INFO - Processing evtx : Microsoft-Windows-Crypto-DPAPI/Operational
+2024-09-15 16:17:11,805 - FastIR - INFO - Processing evtx : Microsoft-Windows-Crypto-DPAPI/Debug
+2024-09-15 16:17:11,805 - FastIR - INFO - Processing evtx : Microsoft-Windows-Crypto-DPAPI/BackUpKeySvc
+2024-09-15 16:17:11,822 - FastIR - INFO - Processing evtx : Microsoft-Windows-Crypto-CNG/Analytic
+2024-09-15 16:17:11,836 - FastIR - INFO - Processing evtx : Microsoft-Windows-Crypto-BCRYPT/Analytic
+2024-09-15 16:17:11,852 - FastIR - INFO - Processing evtx : Microsoft-Windows-CredUI/Diagnostic
+2024-09-15 16:17:11,852 - FastIR - INFO - Processing evtx : Microsoft-Windows-Crashdump/Operational
+2024-09-15 16:17:11,868 - FastIR - INFO - Processing evtx : Microsoft-Windows-Crashdump/Analytic
+2024-09-15 16:17:11,884 - FastIR - INFO - Processing evtx : Microsoft-Windows-CorruptedFileRecovery-Server/Operational
+2024-09-15 16:17:11,900 - FastIR - INFO - Processing evtx : Microsoft-Windows-CorruptedFileRecovery-Client/Operational
+2024-09-15 16:17:11,900 - FastIR - INFO - Processing evtx : Microsoft-Windows-CoreWindow/Debug
+2024-09-15 16:17:11,914 - FastIR - INFO - Processing evtx : Microsoft-Windows-CoreWindow/Analytic
+2024-09-15 16:17:11,930 - FastIR - INFO - Processing evtx : Microsoft-Windows-CoreSystem-SmsRouter-Events/Operational
+2024-09-15 16:17:11,947 - FastIR - INFO - Processing evtx : Microsoft-Windows-CoreSystem-SmsRouter-Events/Debug
+2024-09-15 16:17:11,961 - FastIR - INFO - Processing evtx : Microsoft-Windows-CoreApplication/Tracing
+2024-09-15 16:17:11,961 - FastIR - INFO - Processing evtx : Microsoft-Windows-CoreApplication/Operational
+2024-09-15 16:17:11,977 - FastIR - INFO - Processing evtx : Microsoft-Windows-CoreApplication/Diagnostic
+2024-09-15 16:17:11,993 - FastIR - INFO - Processing evtx : Microsoft-Windows-Containers-Wcnfs/Operational
+2024-09-15 16:17:12,010 - FastIR - INFO - Processing evtx : Microsoft-Windows-Containers-Wcnfs/Debug
+2024-09-15 16:17:12,023 - FastIR - INFO - Processing evtx : Microsoft-Windows-Containers-Wcifs/Operational
+2024-09-15 16:17:12,032 - FastIR - INFO - Processing evtx : Microsoft-Windows-Containers-Wcifs/Debug
+2024-09-15 16:17:12,032 - FastIR - INFO - Processing evtx : Microsoft-Windows-Containers-BindFlt/Operational
+2024-09-15 16:17:12,049 - FastIR - INFO - Processing evtx : Microsoft-Windows-Containers-BindFlt/Debug
+2024-09-15 16:17:12,063 - FastIR - INFO - Processing evtx : Microsoft-Windows-COMRuntime/Tracing
+2024-09-15 16:17:12,079 - FastIR - INFO - Processing evtx : Microsoft-Windows-COMRuntime/MessageProcessing
+2024-09-15 16:17:12,079 - FastIR - INFO - Processing evtx : Microsoft-Windows-COMRuntime/Activations
+2024-09-15 16:17:12,105 - FastIR - INFO - Processing evtx : Microsoft-Windows-Compat-Appraiser/Operational
+2024-09-15 16:17:12,114 - FastIR - INFO - Processing evtx : Microsoft-Windows-Compat-Appraiser/Analytic
+2024-09-15 16:17:12,127 - FastIR - INFO - Processing evtx : Microsoft-Windows-ComDlg32/Debug
+2024-09-15 16:17:12,142 - FastIR - INFO - Processing evtx : Microsoft-Windows-ComDlg32/Analytic
+2024-09-15 16:17:12,142 - FastIR - INFO - Processing evtx : Microsoft-Windows-COM/RundownInstrumentation
+2024-09-15 16:17:12,157 - FastIR - INFO - Processing evtx : Microsoft-Windows-COM/FreeUnusedLibrary
+2024-09-15 16:17:12,174 - FastIR - INFO - Processing evtx : Microsoft-Windows-COM/ExtensionCatalog
+2024-09-15 16:17:12,190 - FastIR - INFO - Processing evtx : Microsoft-Windows-COM/CreateInstance
+2024-09-15 16:17:12,190 - FastIR - INFO - Processing evtx : Microsoft-Windows-COM/Call
+2024-09-15 16:17:12,204 - FastIR - INFO - Processing evtx : Microsoft-Windows-COM/ApartmentUninitialize
+2024-09-15 16:17:12,220 - FastIR - INFO - Processing evtx : Microsoft-Windows-COM/ApartmentInitialize
+2024-09-15 16:17:12,236 - FastIR - INFO - Processing evtx : Microsoft-Windows-COM/Analytic
+2024-09-15 16:17:12,250 - FastIR - INFO - Processing evtx : Microsoft-Windows-CodeIntegrity/Verbose
+2024-09-15 16:17:12,256 - FastIR - INFO - Processing evtx : Microsoft-Windows-CodeIntegrity/Operational
+2024-09-15 16:17:12,270 - FastIR - INFO - Processing evtx : Microsoft-Windows-CmiSetup/Analytic
+2024-09-15 16:17:12,286 - FastIR - INFO - Processing evtx : Microsoft-Windows-CloudStore/Operational
+2024-09-15 16:17:12,328 - FastIR - INFO - Processing evtx : Microsoft-Windows-CloudStore/Initialization
+2024-09-15 16:17:12,346 - FastIR - INFO - Processing evtx : Microsoft-Windows-CloudStore/Debug
+2024-09-15 16:17:12,357 - FastIR - INFO - Processing evtx : Microsoft-Windows-CloudRestoreLauncher/Operational
+2024-09-15 16:17:12,378 - FastIR - INFO - Processing evtx : Microsoft-Windows-ClearTypeTextTuner/Diagnostic
+2024-09-15 16:17:12,378 - FastIR - INFO - Processing evtx : Microsoft-Windows-Cleanmgr/Diagnostic
+2024-09-15 16:17:12,394 - FastIR - INFO - Processing evtx : Microsoft-Windows-CertPoleEng/Operational
+2024-09-15 16:17:12,503 - FastIR - INFO - Processing evtx : Microsoft-Windows-CertificateServicesClient-Lifecycle-User/Operational
+2024-09-15 16:17:12,503 - FastIR - INFO - Processing evtx : Microsoft-Windows-CertificateServicesClient-Lifecycle-System/Operational
+2024-09-15 16:17:12,519 - FastIR - INFO - Processing evtx : Microsoft-Windows-CertificateServicesClient-CredentialRoaming/Operational
+2024-09-15 16:17:12,535 - FastIR - INFO - Processing evtx : Microsoft-Windows-CDROM/Operational
+2024-09-15 16:17:12,551 - FastIR - INFO - Processing evtx : Microsoft-Windows-CAPI2/Operational
+2024-09-15 16:17:12,553 - FastIR - INFO - Processing evtx : Microsoft-Windows-CAPI2/Catalog Database Debug
+2024-09-15 16:17:12,566 - FastIR - INFO - Processing evtx : Microsoft-Windows-BTH-BTHUSB/Performance
+2024-09-15 16:17:12,582 - FastIR - INFO - Processing evtx : Microsoft-Windows-BTH-BTHUSB/Diagnostic
+2024-09-15 16:17:12,598 - FastIR - INFO - Processing evtx : Microsoft-Windows-BTH-BTHPORT/L2CAP
+2024-09-15 16:17:12,598 - FastIR - INFO - Processing evtx : Microsoft-Windows-BTH-BTHPORT/HCI
+2024-09-15 16:17:12,661 - FastIR - INFO - Processing evtx : Microsoft-Windows-BranchCacheSMB/Operational
+2024-09-15 16:17:12,739 - FastIR - INFO - Processing evtx : Microsoft-Windows-BranchCacheSMB/Analytic
+2024-09-15 16:17:12,755 - FastIR - INFO - Processing evtx : Microsoft-Windows-BranchCacheMonitoring/Analytic
+2024-09-15 16:17:12,801 - FastIR - INFO - Processing evtx : Microsoft-Windows-BranchCacheEventProvider/Diagnostic
+2024-09-15 16:17:12,816 - FastIR - INFO - Processing evtx : Microsoft-Windows-BranchCacheClientEventProvider/Diagnostic
+2024-09-15 16:17:12,832 - FastIR - INFO - Processing evtx : Microsoft-Windows-BranchCache/Operational
+2024-09-15 16:17:12,848 - FastIR - INFO - Processing evtx : Microsoft-Windows-Bluetooth-Policy/Operational
+2024-09-15 16:17:12,864 - FastIR - INFO - Processing evtx : Microsoft-Windows-Bluetooth-MTPEnum/Operational
+2024-09-15 16:17:12,864 - FastIR - INFO - Processing evtx : Microsoft-Windows-Bluetooth-Bthmini/Operational
+2024-09-15 16:17:12,878 - FastIR - INFO - Processing evtx : Microsoft-Windows-Bluetooth-BthLEPrepairing/Operational
+2024-09-15 16:17:12,894 - FastIR - INFO - Processing evtx : Microsoft-Windows-Bits-Client/Operational
+2024-09-15 16:17:12,926 - FastIR - INFO - Processing evtx : Microsoft-Windows-Bits-Client/Analytic
+2024-09-15 16:17:12,941 - FastIR - INFO - Processing evtx : Microsoft-Windows-BitLocker/Tracing
+2024-09-15 16:17:12,957 - FastIR - INFO - Processing evtx : Microsoft-Windows-BitLocker/BitLocker Operational
+2024-09-15 16:17:12,957 - FastIR - INFO - Processing evtx : Microsoft-Windows-BitLocker/BitLocker Management
+2024-09-15 16:17:12,989 - FastIR - INFO - Processing evtx : Microsoft-Windows-BitLocker-Driver-Performance/Operational
+2024-09-15 16:17:13,003 - FastIR - INFO - Processing evtx : Microsoft-Windows-BitLocker-DrivePreparationTool/Operational
+2024-09-15 16:17:13,003 - FastIR - INFO - Processing evtx : Microsoft-Windows-BitLocker-DrivePreparationTool/Admin
+2024-09-15 16:17:13,019 - FastIR - INFO - Processing evtx : Microsoft-Windows-Biometrics/Operational
+2024-09-15 16:17:13,051 - FastIR - INFO - Processing evtx : Microsoft-Windows-Biometrics/Analytic
+2024-09-15 16:17:13,051 - FastIR - INFO - Processing evtx : Microsoft-Windows-Battery/Diagnostic
+2024-09-15 16:17:13,066 - FastIR - INFO - Processing evtx : Microsoft-Windows-Base-Filtering-Engine-Resource-Flows/Operational
+2024-09-15 16:17:13,082 - FastIR - INFO - Processing evtx : Microsoft-Windows-Base-Filtering-Engine-Connections/Operational
+2024-09-15 16:17:13,098 - FastIR - INFO - Processing evtx : Microsoft-Windows-Backup
+2024-09-15 16:17:13,098 - FastIR - INFO - Processing evtx : Microsoft-Windows-BackgroundTransfer-ContentPrefetcher/Operational
+2024-09-15 16:17:13,114 - FastIR - INFO - Processing evtx : Microsoft-Windows-BackgroundTaskInfrastructure/Operational
+2024-09-15 16:17:13,144 - FastIR - INFO - Processing evtx : Microsoft-Windows-BackgroundTaskInfrastructure/Diagnostic
+2024-09-15 16:17:13,161 - FastIR - INFO - Processing evtx : Microsoft-Windows-AxInstallService/Log
+2024-09-15 16:17:13,161 - FastIR - INFO - Processing evtx : Microsoft-Windows-Authentication/ProtectedUserSuccesses-DomainController
+2024-09-15 16:17:13,176 - FastIR - INFO - Processing evtx : Microsoft-Windows-Authentication/ProtectedUserFailures-DomainController
+2024-09-15 16:17:13,191 - FastIR - INFO - Processing evtx : Microsoft-Windows-Authentication/ProtectedUser-Client
+2024-09-15 16:17:13,207 - FastIR - INFO - Processing evtx : Microsoft-Windows-Authentication/AuthenticationPolicyFailures-DomainController
+2024-09-15 16:17:13,207 - FastIR - INFO - Processing evtx : Microsoft-Windows-Authentication User Interface/Operational
+2024-09-15 16:17:13,223 - FastIR - INFO - Processing evtx : Microsoft-Windows-Audit/Analytic
+2024-09-15 16:17:13,239 - FastIR - INFO - Processing evtx : Microsoft-Windows-Audio/PlaybackManager
+2024-09-15 16:17:13,253 - FastIR - INFO - Processing evtx : Microsoft-Windows-Audio/Performance
+2024-09-15 16:17:13,269 - FastIR - INFO - Processing evtx : Microsoft-Windows-Audio/Operational
+2024-09-15 16:17:13,301 - FastIR - INFO - Processing evtx : Microsoft-Windows-Audio/Informational
+2024-09-15 16:17:13,316 - FastIR - INFO - Processing evtx : Microsoft-Windows-Audio/GlitchDetection
+2024-09-15 16:17:13,332 - FastIR - INFO - Processing evtx : Microsoft-Windows-Audio/CaptureMonitor
+2024-09-15 16:17:13,348 - FastIR - INFO - Processing evtx : Microsoft-Windows-ATAPort/SATA-LPM
+2024-09-15 16:17:13,348 - FastIR - INFO - Processing evtx : Microsoft-Windows-ATAPort/General
+2024-09-15 16:17:13,375 - FastIR - INFO - Processing evtx : Microsoft-Windows-AsynchronousCausality/Causality
+2024-09-15 16:17:13,380 - FastIR - INFO - Processing evtx : Microsoft-Windows-AssignedAccessBroker/Operational
+2024-09-15 16:17:13,394 - FastIR - INFO - Processing evtx : Microsoft-Windows-AssignedAccessBroker/Admin
+2024-09-15 16:17:13,411 - FastIR - INFO - Processing evtx : Microsoft-Windows-AssignedAccess/Operational
+2024-09-15 16:17:13,411 - FastIR - INFO - Processing evtx : Microsoft-Windows-AssignedAccess/Admin
+2024-09-15 16:17:13,426 - FastIR - INFO - Processing evtx : Microsoft-Windows-ASN1/Operational
+2024-09-15 16:17:13,441 - FastIR - INFO - Processing evtx : Microsoft-Windows-AppxPackaging/Performance
+2024-09-15 16:17:13,457 - FastIR - INFO - Processing evtx : Microsoft-Windows-AppxPackaging/Operational
+2024-09-15 16:17:13,473 - FastIR - INFO - Processing evtx : Microsoft-Windows-AppxPackaging/Debug
+2024-09-15 16:17:13,489 - FastIR - INFO - Processing evtx : Microsoft-Windows-AppXDeploymentServer/Restricted
+2024-09-15 16:17:13,505 - FastIR - INFO - Processing evtx : Microsoft-Windows-AppXDeploymentServer/Operational
+2024-09-15 16:17:13,566 - FastIR - INFO - Processing evtx : Microsoft-Windows-AppXDeploymentServer/Diagnostic
+2024-09-15 16:17:13,582 - FastIR - INFO - Processing evtx : Microsoft-Windows-AppXDeploymentServer/Debug
+2024-09-15 16:17:13,598 - FastIR - INFO - Processing evtx : Microsoft-Windows-AppXDeployment/Operational
+2024-09-15 16:17:13,630 - FastIR - INFO - Processing evtx : Microsoft-Windows-AppXDeployment/Diagnostic
+2024-09-15 16:17:13,644 - FastIR - INFO - Processing evtx : Microsoft-Windows-AppXDeployment-Server/Operational
+2024-09-15 16:17:13,661 - FastIR - INFO - Processing evtx : Microsoft-Windows-AppSruProv
+2024-09-15 16:17:13,676 - FastIR - INFO - Processing evtx : Microsoft-Windows-AppReadiness/Operational
+2024-09-15 16:17:13,691 - FastIR - INFO - Processing evtx : Microsoft-Windows-AppReadiness/Debug
+2024-09-15 16:17:13,713 - FastIR - INFO - Processing evtx : Microsoft-Windows-AppReadiness/Admin
+2024-09-15 16:17:13,743 - FastIR - INFO - Processing evtx : Microsoft-Windows-AppModel-State/Diagnostic
+2024-09-15 16:17:13,759 - FastIR - INFO - Processing evtx : Microsoft-Windows-AppModel-State/Debug
+2024-09-15 16:17:13,773 - FastIR - INFO - Processing evtx : Microsoft-Windows-AppModel-Runtime/Diagnostics
+2024-09-15 16:17:13,782 - FastIR - INFO - Processing evtx : Microsoft-Windows-AppModel-Runtime/Debug
+2024-09-15 16:17:13,782 - FastIR - INFO - Processing evtx : Microsoft-Windows-AppModel-Runtime/Analytic
+2024-09-15 16:17:13,796 - FastIR - INFO - Processing evtx : Microsoft-Windows-AppModel-Runtime/Admin
+2024-09-15 16:17:13,828 - FastIR - INFO - Processing evtx : Microsoft-Windows-AppLocker/Packaged app-Execution
+2024-09-15 16:17:13,844 - FastIR - INFO - Processing evtx : Microsoft-Windows-AppLocker/Packaged app-Deployment
+2024-09-15 16:17:13,844 - FastIR - INFO - Processing evtx : Microsoft-Windows-AppLocker/MSI and Script
+2024-09-15 16:17:13,859 - FastIR - INFO - Processing evtx : Microsoft-Windows-AppLocker/EXE and DLL
+2024-09-15 16:17:13,875 - FastIR - INFO - Processing evtx : Microsoft-Windows-Application-Experience/Steps-Recorder
+2024-09-15 16:17:13,891 - FastIR - INFO - Processing evtx : Microsoft-Windows-Application-Experience/Program-Telemetry
+2024-09-15 16:17:13,921 - FastIR - INFO - Processing evtx : Microsoft-Windows-Application-Experience/Program-Inventory
+2024-09-15 16:17:13,937 - FastIR - INFO - Processing evtx : Microsoft-Windows-Application-Experience/Program-Compatibility-Troubleshooter
+2024-09-15 16:17:13,937 - FastIR - INFO - Processing evtx : Microsoft-Windows-Application-Experience/Program-Compatibility-Assistant/Trace
+2024-09-15 16:17:13,953 - FastIR - INFO - Processing evtx : Microsoft-Windows-Application-Experience/Program-Compatibility-Assistant/Analytic
+2024-09-15 16:17:13,969 - FastIR - INFO - Processing evtx : Microsoft-Windows-Application-Experience/Program-Compatibility-Assistant
+2024-09-15 16:17:14,016 - FastIR - INFO - Processing evtx : Microsoft-Windows-Application-Experience/Compatibility-Infrastructure-Debug
+2024-09-15 16:17:14,609 - FastIR - INFO - Processing evtx : Microsoft-Windows-Application Server-Applications/Operational
+2024-09-15 16:17:14,625 - FastIR - INFO - Processing evtx : Microsoft-Windows-Application Server-Applications/Debug
+2024-09-15 16:17:14,911 - FastIR - INFO - Processing evtx : Microsoft-Windows-Application Server-Applications/Analytic
+2024-09-15 16:17:14,927 - FastIR - INFO - Processing evtx : Microsoft-Windows-Application Server-Applications/Admin
+2024-09-15 16:17:14,944 - FastIR - INFO - Processing evtx : Microsoft-Windows-ApplicabilityEngine/Operational
+2024-09-15 16:17:14,959 - FastIR - INFO - Processing evtx : Microsoft-Windows-ApplicabilityEngine/Analytic
+2024-09-15 16:17:14,974 - FastIR - INFO - Processing evtx : Microsoft-Windows-AppID/Operational
+2024-09-15 16:17:14,974 - FastIR - INFO - Processing evtx : Microsoft-Windows-AppHost/Internal
+2024-09-15 16:17:14,990 - FastIR - INFO - Processing evtx : Microsoft-Windows-AppHost/Diagnostic
+2024-09-15 16:17:15,006 - FastIR - INFO - Processing evtx : Microsoft-Windows-AppHost/ApplicationTracing
+2024-09-15 16:17:15,022 - FastIR - INFO - Processing evtx : Microsoft-Windows-AppHost/Admin
+2024-09-15 16:17:15,036 - FastIR - INFO - Processing evtx : Microsoft-Windows-AllJoyn/Operational
+2024-09-15 16:17:15,052 - FastIR - INFO - Processing evtx : Microsoft-Windows-AllJoyn/Debug
+2024-09-15 16:17:15,084 - FastIR - INFO - Processing evtx : Microsoft-Windows-All-User-Install-Agent/Admin
+2024-09-15 16:17:15,099 - FastIR - INFO - Processing evtx : Microsoft-Windows-ADSI/Debug
+2024-09-15 16:17:15,115 - FastIR - INFO - Processing evtx : Microsoft-Windows-ActionQueue/Analytic
+2024-09-15 16:17:15,115 - FastIR - INFO - Processing evtx : Microsoft-Windows-AAD/Operational
+2024-09-15 16:17:15,147 - FastIR - INFO - Processing evtx : Microsoft-Windows-AAD/Analytic
+2024-09-15 16:17:15,161 - FastIR - INFO - Processing evtx : Microsoft-User Experience Virtualization-SQM Uploader/Operational
+2024-09-15 16:17:15,161 - FastIR - INFO - Processing evtx : Microsoft-User Experience Virtualization-SQM Uploader/Debug
+2024-09-15 16:17:15,177 - FastIR - INFO - Processing evtx : Microsoft-User Experience Virtualization-SQM Uploader/Analytic
+2024-09-15 16:17:15,194 - FastIR - INFO - Processing evtx : Microsoft-User Experience Virtualization-IPC/Operational
+2024-09-15 16:17:15,209 - FastIR - INFO - Processing evtx : Microsoft-User Experience Virtualization-App Agent/Operational
+2024-09-15 16:17:15,209 - FastIR - INFO - Processing evtx : Microsoft-User Experience Virtualization-App Agent/Debug
+2024-09-15 16:17:15,224 - FastIR - INFO - Processing evtx : Microsoft-User Experience Virtualization-App Agent/Analytic
+2024-09-15 16:17:15,240 - FastIR - INFO - Processing evtx : Microsoft-User Experience Virtualization-Agent Driver/Operational
+2024-09-15 16:17:15,256 - FastIR - INFO - Processing evtx : Microsoft-User Experience Virtualization-Agent Driver/Debug
+2024-09-15 16:17:15,256 - FastIR - INFO - Processing evtx : Microsoft-User Experience Virtualization-Admin/Debug
+2024-09-15 16:17:15,272 - FastIR - INFO - Processing evtx : Microsoft-System-Diagnostics-DiagnosticInvoker/Operational
+2024-09-15 16:17:15,381 - FastIR - INFO - Processing evtx : Microsoft-PerfTrack-MSHTML/Diagnostic
+2024-09-15 16:17:15,444 - FastIR - INFO - Processing evtx : Microsoft-PerfTrack-IEFRAME/Diagnostic
+2024-09-15 16:17:15,506 - FastIR - INFO - Processing evtx : Microsoft-OneCore-Setup/Analytic
+2024-09-15 16:17:15,536 - FastIR - INFO - Processing evtx : Microsoft-JSDumpHeap/Diagnostic
+2024-09-15 16:17:15,569 - FastIR - INFO - Processing evtx : Microsoft-IEFRAME/Diagnostic
+2024-09-15 16:17:15,569 - FastIR - INFO - Processing evtx : Microsoft-IE/Diagnostic
+2024-09-15 16:17:15,584 - FastIR - INFO - Processing evtx : Microsoft-Client-Licensing-Platform/Diagnostic
+2024-09-15 16:17:15,599 - FastIR - INFO - Processing evtx : Microsoft-Client-Licensing-Platform/Debug
+2024-09-15 16:17:15,615 - FastIR - INFO - Processing evtx : Microsoft-Client-Licensing-Platform/Admin
+2024-09-15 16:17:15,647 - FastIR - INFO - Processing evtx : Microsoft-Client-License-Flexible-Platform/Diagnostic
+2024-09-15 16:17:15,661 - FastIR - INFO - Processing evtx : Microsoft-Client-License-Flexible-Platform/Debug
+2024-09-15 16:17:15,677 - FastIR - INFO - Processing evtx : Microsoft-Client-License-Flexible-Platform/Admin
+2024-09-15 16:17:15,677 - FastIR - INFO - Processing evtx : Microsoft-AppV-SharedPerformance/Analytic
+2024-09-15 16:17:15,694 - FastIR - INFO - Processing evtx : Microsoft-AppV-Client/Virtual Applications
+2024-09-15 16:17:15,709 - FastIR - INFO - Processing evtx : Microsoft-AppV-Client/Operational
+2024-09-15 16:17:15,724 - FastIR - INFO - Processing evtx : Microsoft-AppV-Client/Debug
+2024-09-15 16:17:15,724 - FastIR - INFO - Processing evtx : Microsoft-AppV-Client/Admin
+2024-09-15 16:17:15,740 - FastIR - INFO - Processing evtx : Microsoft-AppV-Client-Streamingux/Debug
+2024-09-15 16:17:15,756 - FastIR - INFO - Processing evtx : MF_MediaFoundationFrameServer
+2024-09-15 16:17:15,772 - FastIR - INFO - Processing evtx : MF_MediaFoundationDeviceProxy
+2024-09-15 16:17:15,772 - FastIR - INFO - Processing evtx : MF_MediaFoundationDeviceMFT
+2024-09-15 16:17:15,786 - FastIR - INFO - Processing evtx : MediaFoundationSrcPrefetch
+2024-09-15 16:17:15,802 - FastIR - INFO - Processing evtx : MediaFoundationPlatform
+2024-09-15 16:17:15,819 - FastIR - INFO - Processing evtx : MediaFoundationPipeline
+2024-09-15 16:17:15,819 - FastIR - INFO - Processing evtx : MediaFoundationPerformanceCore
+2024-09-15 16:17:15,834 - FastIR - INFO - Processing evtx : MediaFoundationPerformance
+2024-09-15 16:17:15,849 - FastIR - INFO - Processing evtx : MediaFoundationMP4
+2024-09-15 16:17:15,865 - FastIR - INFO - Processing evtx : MediaFoundationMediaEngine
+2024-09-15 16:17:15,881 - FastIR - INFO - Processing evtx : MediaFoundationDS
+2024-09-15 16:17:15,881 - FastIR - INFO - Processing evtx : MediaFoundationDeviceProxy
+2024-09-15 16:17:15,897 - FastIR - INFO - Processing evtx : MediaFoundationContentProtection
+2024-09-15 16:17:15,911 - FastIR - INFO - Processing evtx : MediaFoundationAsyncWrapper
+2024-09-15 16:17:15,927 - FastIR - INFO - Processing evtx : MedaFoundationVideoProcD3D
+2024-09-15 16:17:15,927 - FastIR - INFO - Processing evtx : MedaFoundationVideoProc
+2024-09-15 16:17:15,944 - FastIR - INFO - Processing evtx : Intel-iaLPSS2-I2C/Performance
+2024-09-15 16:17:15,959 - FastIR - INFO - Processing evtx : Intel-iaLPSS2-I2C/Debug
+2024-09-15 16:17:15,974 - FastIR - INFO - Processing evtx : Intel-iaLPSS2-GPIO2/Performance
+2024-09-15 16:17:15,974 - FastIR - INFO - Processing evtx : Intel-iaLPSS2-GPIO2/Debug
+2024-09-15 16:17:15,990 - FastIR - INFO - Processing evtx : Intel-iaLPSS-I2C/Analytic
+2024-09-15 16:17:16,006 - FastIR - INFO - Processing evtx : Intel-iaLPSS-GPIO/Analytic
+2024-09-15 16:17:16,022 - FastIR - INFO - Processing evtx : IHM_DebugChannel
+2024-09-15 16:17:16,036 - FastIR - INFO - Processing evtx : General Logging
+2024-09-15 16:17:16,036 - FastIR - INFO - Processing evtx : ForwardedEvents
+2024-09-15 16:17:16,052 - FastIR - INFO - Processing evtx : FirstUXPerf-Analytic
+2024-09-15 16:17:16,069 - FastIR - INFO - Processing evtx : EndpointMapper
+2024-09-15 16:17:16,084 - FastIR - INFO - Processing evtx : Els_Hyphenation/Analytic
+2024-09-15 16:17:16,084 - FastIR - INFO - Processing evtx : DirectShowPluginControl
+2024-09-15 16:17:16,099 - FastIR - INFO - Processing evtx : DirectShowFilterGraph
+2024-09-15 16:17:16,115 - FastIR - INFO - Processing evtx : Analytic
+2024-09-15 16:17:16,131 - FastIR - INFO - Processing evtx : AMSI/Debug
+2024-09-15 16:17:16,131 - FastIR - INFO - Processing evtx : AirSpaceChannel
+2024-09-15 16:17:17,298 - FastIR - INFO - Create Shadow Copy for C:\ {7FF75843-2768-4D9B-A507-FE94D16F5C12}
+2024-09-15 16:17:25,013 - FastIR - ERROR - Traceback (most recent call last):
+  File "main.py", line 404, in main
+  File "fs\windows10Files.py", line 50, in csv_chrome_history
+  File "fs\fs.py", line 313, in _csv_chrome_history
+  File "fs\fs.py", line 223, in _chrome_history
+OperationalError: database is locked
+
+2024-09-15 16:17:25,407 - FastIR - ERROR - Traceback (most recent call last):
+  File "fs\fs.py", line 105, in _list_windows_prefetch
+error: unpack requires a string argument of length 4
+
+2024-09-15 16:17:25,407 - FastIR - ERROR - Error decoding prefetch C:\WINDOWS\Prefetch\AMDBUGREPORTTOOL.EXE-9A8A7CFB.pf
+2024-09-15 16:17:43,691 - FastIR - INFO - Health : Hashing running processes
+2024-09-15 16:17:55,125 - FastIR - INFO - Health : Listing ARP tables
+2024-09-15 16:17:55,214 - FastIR - INFO - Health : Listing drives
+2024-09-15 16:17:56,190 - FastIR - INFO - Health : Listing KB installed on computer
+2024-09-15 16:17:56,836 - FastIR - INFO - Health : Listing network adapters
+2024-09-15 16:17:57,461 - FastIR - ERROR - Error to catch IP Address (u'192.168.232.197',) 
+2024-09-15 16:18:15,865 - FastIR - INFO - Health : Listing network drives
+2024-09-15 16:18:15,901 - FastIR - INFO - Health : Listing routes tables
+2024-09-15 16:18:16,122 - FastIR - INFO - Health : Listing running processes
+2024-09-15 16:18:21,190 - FastIR - INFO - Health : Listing scheduled jobs
+2024-09-15 16:18:22,864 - FastIR - INFO - Health : Listing services
+2024-09-15 16:18:29,788 - FastIR - INFO - Health : Listing sessions
+2024-09-15 16:18:30,053 - FastIR - INFO - Health : Listing shares
+2024-09-15 16:18:30,150 - FastIR - INFO - Health : Listing sockets networks
+2024-09-15 16:18:31,336 - FastIR - WARNING - GetProcessModules() Error on Module32First[6] with PID : 4
+2024-09-15 16:18:31,336 - FastIR - WARNING - GetProcessModules() Error on Module32First[6] with PID : 140
+2024-09-15 16:18:31,336 - FastIR - WARNING - GetProcessModules() Error on Module32First[6] with PID : 584
+2024-09-15 16:18:31,352 - FastIR - WARNING - GetProcessModules() Error on Module32First[6] with PID : 872
+2024-09-15 16:18:31,352 - FastIR - WARNING - GetProcessModules() Error on Module32First[6] with PID : 568
+2024-09-15 16:18:31,352 - FastIR - WARNING - GetProcessModules() Error on Module32First[6] with PID : 1068
+2024-09-15 16:18:31,400 - FastIR - WARNING - GetProcessModules() Error on Module32First[6] with PID : 3004
+2024-09-15 16:18:31,400 - FastIR - WARNING - GetProcessModules() Error on Module32First[6] with PID : 3524
+2024-09-15 16:18:31,430 - FastIR - WARNING - GetProcessModules() Error on Module32First[6] with PID : 4312
+2024-09-15 16:18:31,523 - FastIR - WARNING - GetProcessModules() Error on Module32First[6] with PID : 12504
+2024-09-15 16:18:31,523 - FastIR - WARNING - GetProcessModules() Error on Module32First[6] with PID : 12836
+2024-09-15 16:18:31,555 - FastIR - WARNING - GetProcessModules() Error on Module32First[6] with PID : 13156
+2024-09-15 16:18:31,585 - FastIR - WARNING - GetProcessModules() Error on Module32First[6] with PID : 2788
+2024-09-15 16:18:31,585 - FastIR - WARNING - GetProcessModules() Error on Module32First[6] with PID : 4512
+2024-09-15 16:18:31,882 - FastIR - WARNING - GetProcessModules() Error on Module32First[6] with PID : 22876
+2024-09-15 16:18:31,882 - FastIR - WARNING - GetProcessModules() Error on Module32First[6] with PID : 20992
+2024-09-15 16:18:32,507 - FastIR - INFO - Getting opened files for : System Idle Process(0)
+2024-09-15 16:18:32,773 - FastIR - INFO - Getting opened files for : System(4)
+2024-09-15 16:18:33,023 - FastIR - INFO - Getting opened files for : Registry(140)
+2024-09-15 16:18:33,312 - FastIR - INFO - Getting opened files for : smss.exe(584)
+2024-09-15 16:18:33,612 - FastIR - INFO - Getting opened files for : csrss.exe(872)
+2024-09-15 16:18:33,895 - FastIR - INFO - Getting opened files for : wininit.exe(568)
+2024-09-15 16:18:34,187 - FastIR - INFO - Getting opened files for : services.exe(1068)
+2024-09-15 16:18:34,457 - FastIR - INFO - Getting opened files for : lsass.exe(1092)
+2024-09-15 16:18:34,862 - FastIR - INFO - Getting opened files for : svchost.exe(1224)
+2024-09-15 16:18:35,272 - FastIR - INFO - Getting opened files for : fontdrvhost.exe(1252)
+2024-09-15 16:18:35,634 - FastIR - INFO - Getting opened files for : svchost.exe(1364)
+2024-09-15 16:18:36,025 - FastIR - INFO - Getting opened files for : svchost.exe(1408)
+2024-09-15 16:18:36,381 - FastIR - INFO - Getting opened files for : svchost.exe(1532)
+2024-09-15 16:18:36,700 - FastIR - INFO - Getting opened files for : svchost.exe(1540)
+2024-09-15 16:18:37,017 - FastIR - INFO - Getting opened files for : svchost.exe(1556)
+2024-09-15 16:18:37,335 - FastIR - INFO - Getting opened files for : svchost.exe(1648)
+2024-09-15 16:18:37,625 - FastIR - INFO - Getting opened files for : svchost.exe(1664)
+2024-09-15 16:18:37,947 - FastIR - INFO - Getting opened files for : svchost.exe(1940)
+2024-09-15 16:18:38,269 - FastIR - INFO - Getting opened files for : svchost.exe(1980)
+2024-09-15 16:18:38,585 - FastIR - INFO - Getting opened files for : amdfendrsr.exe(1356)
+2024-09-15 16:18:38,877 - FastIR - INFO - Getting opened files for : svchost.exe(1248)
+2024-09-15 16:18:40,887 - FastIR - INFO - Getting opened files for : atiesrxx.exe(1452)
+2024-09-15 16:18:41,332 - FastIR - INFO - Getting opened files for : svchost.exe(2212)
+2024-09-15 16:18:41,670 - FastIR - INFO - Getting opened files for : svchost.exe(2412)
+2024-09-15 16:18:42,006 - FastIR - INFO - Getting opened files for : svchost.exe(2456)
+2024-09-15 16:18:42,339 - FastIR - INFO - Getting opened files for : svchost.exe(2500)
+2024-09-15 16:18:42,663 - FastIR - INFO - Getting opened files for : svchost.exe(2572)
+2024-09-15 16:18:42,956 - FastIR - INFO - Getting opened files for : svchost.exe(2616)
+2024-09-15 16:18:43,247 - FastIR - INFO - Getting opened files for : svchost.exe(2772)
+2024-09-15 16:18:43,572 - FastIR - INFO - Getting opened files for : svchost.exe(2896)
+2024-09-15 16:18:43,891 - FastIR - INFO - Getting opened files for : svchost.exe(2904)
+2024-09-15 16:18:44,224 - FastIR - INFO - Getting opened files for : svchost.exe(2920)
+2024-09-15 16:18:44,559 - FastIR - INFO - Getting opened files for : Memory Compression(3004)
+2024-09-15 16:18:44,844 - FastIR - INFO - Getting opened files for : svchost.exe(3044)
+2024-09-15 16:18:45,171 - FastIR - INFO - Getting opened files for : svchost.exe(2256)
+2024-09-15 16:18:45,500 - FastIR - INFO - Getting opened files for : svchost.exe(2228)
+2024-09-15 16:18:45,842 - FastIR - INFO - Getting opened files for : svchost.exe(3124)
+2024-09-15 16:18:46,191 - FastIR - INFO - Getting opened files for : svchost.exe(3232)
+2024-09-15 16:18:46,529 - FastIR - INFO - Getting opened files for : svchost.exe(3260)
+2024-09-15 16:18:46,846 - FastIR - INFO - Getting opened files for : svchost.exe(3360)
+2024-09-15 16:18:47,157 - FastIR - INFO - Getting opened files for : svchost.exe(3368)
+2024-09-15 16:18:47,446 - FastIR - INFO - Getting opened files for : svchost.exe(3516)
+2024-09-15 16:18:47,799 - FastIR - INFO - Getting opened files for : svchost.exe(3524)
+2024-09-15 16:18:48,052 - FastIR - INFO - Getting opened files for : svchost.exe(3680)
+2024-09-15 16:18:48,371 - FastIR - INFO - Getting opened files for : svchost.exe(3716)
+2024-09-15 16:18:48,697 - FastIR - INFO - Getting opened files for : spoolsv.exe(3784)
+2024-09-15 16:18:49,009 - FastIR - INFO - Getting opened files for : svchost.exe(3860)
+2024-09-15 16:18:49,319 - FastIR - INFO - Getting opened files for : svchost.exe(3868)
+2024-09-15 16:18:49,664 - FastIR - INFO - Getting opened files for : svchost.exe(3936)
+2024-09-15 16:18:50,023 - FastIR - INFO - Getting opened files for : svchost.exe(3944)
+2024-09-15 16:18:50,351 - FastIR - INFO - Getting opened files for : armsvc.exe(3952)
+2024-09-15 16:18:50,694 - FastIR - INFO - Getting opened files for : Dell.TechHub.exe(3960)
+2024-09-15 16:18:52,719 - FastIR - INFO - Getting opened files for : escsvc64.exe(3988)
+2024-09-15 16:18:53,000 - FastIR - INFO - Getting opened files for : OfficeClickToRun.exe(3996)
+2024-09-15 16:18:53,312 - FastIR - INFO - Getting opened files for : AGMService.exe(4020)
+2024-09-15 16:18:53,609 - FastIR - INFO - Getting opened files for : svchost.exe(4092)
+2024-09-15 16:18:53,891 - FastIR - INFO - Getting opened files for : svchost.exe(4116)
+2024-09-15 16:18:54,171 - FastIR - INFO - Getting opened files for : RtkBtManServ.exe(4216)
+2024-09-15 16:18:54,532 - FastIR - INFO - Getting opened files for : svchost.exe(4248)
+2024-09-15 16:18:54,859 - FastIR - INFO - Getting opened files for : MsMpEng.exe(4312)
+2024-09-15 16:18:55,125 - FastIR - INFO - Getting opened files for : svchost.exe(4320)
+2024-09-15 16:18:55,423 - FastIR - INFO - Getting opened files for : svchost.exe(4388)
+2024-09-15 16:18:55,743 - FastIR - INFO - Getting opened files for : svchost.exe(4428)
+2024-09-15 16:18:56,079 - FastIR - INFO - Getting opened files for : svchost.exe(4560)
+2024-09-15 16:18:56,407 - FastIR - INFO - Getting opened files for : svchost.exe(4916)
+2024-09-15 16:18:56,730 - FastIR - INFO - Getting opened files for : svchost.exe(5124)
+2024-09-15 16:18:57,012 - FastIR - INFO - Getting opened files for : svchost.exe(5824)
+2024-09-15 16:18:57,308 - FastIR - INFO - Getting opened files for : svchost.exe(6352)
+2024-09-15 16:18:57,637 - FastIR - INFO - Getting opened files for : AggregatorHost.exe(6708)
+2024-09-15 16:18:57,933 - FastIR - INFO - Getting opened files for : unsecapp.exe(6788)
+2024-09-15 16:18:58,230 - FastIR - INFO - Getting opened files for : svchost.exe(7008)
+2024-09-15 16:18:58,526 - FastIR - INFO - Getting opened files for : svchost.exe(6684)
+2024-09-15 16:18:58,823 - FastIR - INFO - Getting opened files for : svchost.exe(6624)
+2024-09-15 16:18:59,135 - FastIR - INFO - Getting opened files for : svchost.exe(6500)
+2024-09-15 16:18:59,433 - FastIR - INFO - Getting opened files for : svchost.exe(7316)
+2024-09-15 16:18:59,785 - FastIR - INFO - Getting opened files for : svchost.exe(7680)
+2024-09-15 16:19:00,098 - FastIR - INFO - Getting opened files for : Dell.CoreServices.Client.exe(6908)
+2024-09-15 16:19:02,124 - FastIR - INFO - Getting opened files for : Dell.DCF.UA.Bradbury.API.SubAgent.exe(8172)
+2024-09-15 16:19:02,451 - FastIR - INFO - Getting opened files for : conhost.exe(7904)
+2024-09-15 16:19:02,733 - FastIR - INFO - Getting opened files for : Dell.TechHub.Analytics.SubAgent.exe(7672)
+2024-09-15 16:19:04,762 - FastIR - INFO - Getting opened files for : Dell.TechHub.Diagnostics.SubAgent.exe(3972)
+2024-09-15 16:19:06,762 - FastIR - INFO - Getting opened files for : conhost.exe(8200)
+2024-09-15 16:19:07,075 - FastIR - INFO - Getting opened files for : Dell.TechHub.DataManager.SubAgent.exe(8208)
+2024-09-15 16:19:09,075 - FastIR - INFO - Getting opened files for : conhost.exe(8236)
+2024-09-15 16:19:09,372 - FastIR - INFO - Getting opened files for : conhost.exe(8248)
+2024-09-15 16:19:09,654 - FastIR - INFO - Getting opened files for : Dell.TechHub.Instrumentation.SubAgent.exe(8256)
+2024-09-15 16:19:11,677 - FastIR - INFO - Getting opened files for : conhost.exe(8284)
+2024-09-15 16:19:11,967 - FastIR - INFO - Getting opened files for : svchost.exe(9604)
+2024-09-15 16:19:12,266 - FastIR - INFO - Getting opened files for : WmiPrvSE.exe(10556)
+2024-09-15 16:19:12,555 - FastIR - INFO - Getting opened files for : svchost.exe(10820)
+2024-09-15 16:19:12,871 - FastIR - INFO - Getting opened files for : SearchIndexer.exe(11056)
+2024-09-15 16:19:13,193 - FastIR - INFO - Getting opened files for : svchost.exe(11916)
+2024-09-15 16:19:13,509 - FastIR - INFO - Getting opened files for : MpDefenderCoreService.exe(12504)
+2024-09-15 16:19:13,760 - FastIR - INFO - Getting opened files for : NisSrv.exe(12836)
+2024-09-15 16:19:13,979 - FastIR - INFO - Getting opened files for : svchost.exe(13264)
+2024-09-15 16:19:14,296 - FastIR - INFO - Getting opened files for : svchost.exe(848)
+2024-09-15 16:19:14,578 - FastIR - INFO - Getting opened files for : svchost.exe(11448)
+2024-09-15 16:19:14,858 - FastIR - INFO - Getting opened files for : MoUsoCoreWorker.exe(4404)
+2024-09-15 16:19:15,171 - FastIR - INFO - Getting opened files for : DDVRulesProcessor.exe(2672)
+2024-09-15 16:19:15,469 - FastIR - INFO - Getting opened files for : ServiceShell.exe(8216)
+2024-09-15 16:19:15,812 - FastIR - INFO - Getting opened files for : SupportAssistAgent.exe(14060)
+2024-09-15 16:19:17,826 - FastIR - INFO - Getting opened files for : svchost.exe(13156)
+2024-09-15 16:19:18,076 - FastIR - INFO - Getting opened files for : DDVDataCollector.exe(7940)
+2024-09-15 16:19:20,078 - FastIR - INFO - Getting opened files for : DDVCollectorSvcApi.exe(7116)
+2024-09-15 16:19:20,375 - FastIR - INFO - Getting opened files for : svchost.exe(14184)
+2024-09-15 16:19:20,687 - FastIR - INFO - Getting opened files for : svchost.exe(5964)
+2024-09-15 16:19:20,984 - FastIR - INFO - Getting opened files for : svchost.exe(3404)
+2024-09-15 16:19:21,345 - FastIR - INFO - Getting opened files for : SecurityHealthService.exe(2788)
+2024-09-15 16:19:21,595 - FastIR - INFO - Getting opened files for : svchost.exe(12788)
+2024-09-15 16:19:21,907 - FastIR - INFO - Getting opened files for : svchost.exe(22640)
+2024-09-15 16:19:22,220 - FastIR - INFO - Getting opened files for : svchost.exe(11340)
+2024-09-15 16:19:22,517 - FastIR - INFO - Getting opened files for : svchost.exe(20864)
+2024-09-15 16:19:22,845 - FastIR - INFO - Getting opened files for : csrss.exe(4512)
+2024-09-15 16:19:23,111 - FastIR - INFO - Getting opened files for : winlogon.exe(22044)
+2024-09-15 16:19:23,407 - FastIR - INFO - Getting opened files for : fontdrvhost.exe(1696)
+2024-09-15 16:19:23,720 - FastIR - INFO - Getting opened files for : dwm.exe(7816)
+2024-09-15 16:19:24,049 - FastIR - INFO - Getting opened files for : atieclxx.exe(3488)
+2024-09-15 16:19:24,362 - FastIR - INFO - Getting opened files for : sihost.exe(22936)
+2024-09-15 16:19:24,660 - FastIR - INFO - Getting opened files for : svchost.exe(14904)
+2024-09-15 16:19:24,971 - FastIR - INFO - Getting opened files for : svchost.exe(1192)
+2024-09-15 16:19:25,286 - FastIR - INFO - Getting opened files for : svchost.exe(5728)
+2024-09-15 16:19:25,591 - FastIR - INFO - Getting opened files for : svchost.exe(1580)
+2024-09-15 16:19:25,888 - FastIR - INFO - Getting opened files for : taskhostw.exe(16036)
+2024-09-15 16:19:26,186 - FastIR - INFO - Getting opened files for : Dell.TechHub.Instrumentation.UserProcess.exe(23480)
+2024-09-15 16:19:28,200 - FastIR - INFO - Getting opened files for : explorer.exe(20428)
+2024-09-15 16:19:30,207 - FastIR - INFO - Getting opened files for : svchost.exe(19044)
+2024-09-15 16:19:30,520 - FastIR - INFO - Getting opened files for : StartMenuExperienceHost.exe(22404)
+2024-09-15 16:19:30,816 - FastIR - INFO - Getting opened files for : SearchHost.exe(15392)
+2024-09-15 16:19:31,130 - FastIR - INFO - Getting opened files for : RuntimeBroker.exe(276)
+2024-09-15 16:19:31,460 - FastIR - INFO - Getting opened files for : Widgets.exe(13368)
+2024-09-15 16:19:31,930 - FastIR - INFO - Getting opened files for : RuntimeBroker.exe(6072)
+2024-09-15 16:19:32,326 - FastIR - INFO - Getting opened files for : svchost.exe(22648)
+2024-09-15 16:19:32,608 - FastIR - INFO - Getting opened files for : dllhost.exe(7660)
+2024-09-15 16:19:32,905 - FastIR - INFO - Getting opened files for : ctfmon.exe(20132)
+2024-09-15 16:19:33,203 - FastIR - INFO - Getting opened files for : LockApp.exe(15208)
+2024-09-15 16:19:33,500 - FastIR - INFO - Getting opened files for : RuntimeBroker.exe(23420)
+2024-09-15 16:19:33,808 - FastIR - INFO - Getting opened files for : svchost.exe(14096)
+2024-09-15 16:19:34,135 - FastIR - INFO - Getting opened files for : TextInputHost.exe(8072)
+2024-09-15 16:19:34,490 - FastIR - INFO - Getting opened files for : chrome.exe(3120)
+2024-09-15 16:19:36,494 - FastIR - INFO - Getting opened files for : chrome.exe(13800)
+2024-09-15 16:19:37,010 - FastIR - INFO - Getting opened files for : chrome.exe(10852)
+2024-09-15 16:19:37,322 - FastIR - INFO - Getting opened files for : chrome.exe(13320)
+2024-09-15 16:19:37,605 - FastIR - INFO - Getting opened files for : chrome.exe(10188)
+2024-09-15 16:19:37,901 - FastIR - INFO - Getting opened files for : chrome.exe(17604)
+2024-09-15 16:19:38,197 - FastIR - INFO - Getting opened files for : chrome.exe(4460)
+2024-09-15 16:19:38,595 - FastIR - INFO - Getting opened files for : PhoneExperienceHost.exe(19828)
+2024-09-15 16:19:40,619 - FastIR - INFO - Getting opened files for : GoogleDriveFS.exe(21160)
+2024-09-15 16:19:40,917 - FastIR - INFO - Getting opened files for : crashpad_handler.exe(15232)
+2024-09-15 16:19:41,450 - FastIR - INFO - Getting opened files for : GoogleDriveFS.exe(22492)
+2024-09-15 16:19:41,944 - FastIR - INFO - Getting opened files for : GoogleDriveFS.exe(15472)
+2024-09-15 16:19:42,243 - FastIR - INFO - Getting opened files for : conhost.exe(20748)
+2024-09-15 16:19:42,540 - FastIR - INFO - Getting opened files for : GoogleDriveFS.exe(15120)
+2024-09-15 16:19:42,869 - FastIR - INFO - Getting opened files for : GoogleDriveFS.exe(2108)
+2024-09-15 16:19:43,197 - FastIR - INFO - Getting opened files for : GoogleDriveFS.exe(17344)
+2024-09-15 16:19:43,509 - FastIR - INFO - Getting opened files for : GoogleDriveFS.exe(2552)
+2024-09-15 16:19:43,806 - FastIR - INFO - Getting opened files for : CPUMetricsServer.exe(16680)
+2024-09-15 16:19:44,104 - FastIR - INFO - Getting opened files for : cmd.exe(10688)
+2024-09-15 16:19:44,427 - FastIR - INFO - Getting opened files for : conhost.exe(14924)
+2024-09-15 16:19:44,723 - FastIR - INFO - Getting opened files for : AMDRSServ.exe(7248)
+2024-09-15 16:19:45,022 - FastIR - INFO - Getting opened files for : E_YATIYWE.EXE(15264)
+2024-09-15 16:19:45,319 - FastIR - INFO - Getting opened files for : E_YATIYWE.EXE(1220)
+2024-09-15 16:19:45,615 - FastIR - INFO - Getting opened files for : Grammarly.Desktop.exe(22004)
+2024-09-15 16:19:47,615 - FastIR - INFO - Getting opened files for : ShellExperienceHost.exe(15272)
+2024-09-15 16:19:47,928 - FastIR - INFO - Getting opened files for : RuntimeBroker.exe(8876)
+2024-09-15 16:19:48,242 - FastIR - INFO - Getting opened files for : SystemSettingsBroker.exe(19616)
+2024-09-15 16:19:48,555 - FastIR - INFO - Getting opened files for : svchost.exe(2432)
+2024-09-15 16:19:48,835 - FastIR - INFO - Getting opened files for : WhatsApp.exe(17492)
+2024-09-15 16:19:50,864 - FastIR - INFO - Getting opened files for : chrome.exe(17664)
+2024-09-15 16:19:51,187 - FastIR - INFO - Getting opened files for : chrome.exe(7024)
+2024-09-15 16:19:51,530 - FastIR - INFO - Getting opened files for : RuntimeBroker.exe(13832)
+2024-09-15 16:19:51,923 - FastIR - INFO - Getting opened files for : chrome.exe(10136)
+2024-09-15 16:19:52,299 - FastIR - INFO - Getting opened files for : RadeonSoftware.exe(18744)
+2024-09-15 16:19:52,779 - FastIR - INFO - Getting opened files for : chrome.exe(14220)
+2024-09-15 16:19:53,144 - FastIR - INFO - Getting opened files for : cncmd.exe(23020)
+2024-09-15 16:19:53,538 - FastIR - INFO - Getting opened files for : chrome.exe(3172)
+2024-09-15 16:19:53,848 - FastIR - INFO - Getting opened files for : chrome.exe(5200)
+2024-09-15 16:19:54,145 - FastIR - INFO - Getting opened files for : chrome.exe(6476)
+2024-09-15 16:19:54,427 - FastIR - INFO - Getting opened files for : chrome.exe(16568)
+2024-09-15 16:19:54,724 - FastIR - INFO - Getting opened files for : svchost.exe(14928)
+2024-09-15 16:19:55,022 - FastIR - INFO - Getting opened files for : chrome.exe(21192)
+2024-09-15 16:19:55,318 - FastIR - INFO - Getting opened files for : msedgewebview2.exe(2428)
+2024-09-15 16:19:57,346 - FastIR - INFO - Getting opened files for : msedgewebview2.exe(6952)
+2024-09-15 16:19:57,846 - FastIR - INFO - Getting opened files for : msedgewebview2.exe(23096)
+2024-09-15 16:19:58,144 - FastIR - INFO - Getting opened files for : msedgewebview2.exe(19936)
+2024-09-15 16:19:58,440 - FastIR - INFO - Getting opened files for : msedgewebview2.exe(2308)
+2024-09-15 16:19:58,737 - FastIR - INFO - Getting opened files for : msedgewebview2.exe(22604)
+2024-09-15 16:19:59,035 - FastIR - INFO - Getting opened files for : Skype.exe(9728)
+2024-09-15 16:19:59,332 - FastIR - INFO - Getting opened files for : Skype.exe(7232)
+2024-09-15 16:19:59,832 - FastIR - INFO - Getting opened files for : Skype.exe(22472)
+2024-09-15 16:20:00,130 - FastIR - INFO - Getting opened files for : Skype.exe(16228)
+2024-09-15 16:20:00,411 - FastIR - INFO - Getting opened files for : chrome.exe(18704)
+2024-09-15 16:20:00,707 - FastIR - INFO - Getting opened files for : Skype.exe(8840)
+2024-09-15 16:20:00,989 - FastIR - INFO - Getting opened files for : CrossDeviceService.exe(2316)
+2024-09-15 16:20:03,005 - FastIR - INFO - Getting opened files for : WINWORD.EXE(11872)
+2024-09-15 16:20:05,006 - FastIR - INFO - Getting opened files for : RuntimeBroker.exe(10352)
+2024-09-15 16:20:05,302 - FastIR - INFO - Getting opened files for : EEventManager.exe(7956)
+2024-09-15 16:20:05,599 - FastIR - INFO - Getting opened files for : chrome.exe(13676)
+2024-09-15 16:20:05,895 - FastIR - INFO - Getting opened files for : chrome.exe(14720)
+2024-09-15 16:20:06,260 - FastIR - INFO - Getting opened files for : ApplicationFrameHost.exe(10200)
+2024-09-15 16:20:06,588 - FastIR - INFO - Getting opened files for : SystemSettings.exe(22812)
+2024-09-15 16:20:06,933 - FastIR - INFO - Getting opened files for : UserOOBEBroker.exe(18576)
+2024-09-15 16:20:07,230 - FastIR - INFO - Getting opened files for : AMDRSSrcExt.exe(14408)
+2024-09-15 16:20:07,510 - FastIR - INFO - Getting opened files for : QtWebEngineProcess.exe(13892)
+2024-09-15 16:20:07,808 - FastIR - INFO - Getting opened files for : chrome.exe(18148)
+2024-09-15 16:20:08,088 - FastIR - INFO - Getting opened files for : EXCEL.EXE(16276)
+2024-09-15 16:20:08,431 - FastIR - INFO - Getting opened files for : dllhost.exe(12332)
+2024-09-15 16:20:08,729 - FastIR - INFO - Getting opened files for : chrome.exe(6112)
+2024-09-15 16:20:09,026 - FastIR - INFO - Getting opened files for : svchost.exe(14192)
+2024-09-15 16:20:09,316 - FastIR - INFO - Getting opened files for : WmiPrvSE.exe(23064)
+2024-09-15 16:20:09,614 - FastIR - INFO - Getting opened files for : Video.UI.exe(13256)
+2024-09-15 16:20:09,926 - FastIR - INFO - Getting opened files for : RuntimeBroker.exe(5212)
+2024-09-15 16:20:10,253 - FastIR - INFO - Getting opened files for : svchost.exe(22876)
+2024-09-15 16:20:10,487 - FastIR - INFO - Getting opened files for : svchost.exe(20992)
+2024-09-15 16:20:10,737 - FastIR - INFO - Getting opened files for : svchost.exe(13040)
+2024-09-15 16:20:11,035 - FastIR - INFO - Getting opened files for : svchost.exe(20360)
+2024-09-15 16:20:11,348 - FastIR - INFO - Getting opened files for : WmiPrvSE.exe(18596)
+2024-09-15 16:20:11,628 - FastIR - INFO - Getting opened files for : svchost.exe(8776)
+2024-09-15 16:20:11,911 - FastIR - INFO - Getting opened files for : svchost.exe(17296)
+2024-09-15 16:20:12,191 - FastIR - INFO - Getting opened files for : smartscreen.exe(9688)
+2024-09-15 16:20:12,490 - FastIR - WARNING - Could not open handle for PID : 20044
+2024-09-15 16:20:12,490 - FastIR - INFO - Getting opened files for : Notepad.exe(17520)
+2024-09-15 16:20:14,520 - FastIR - INFO - Getting opened files for : dllhost.exe(21036)
+2024-09-15 16:20:14,818 - FastIR - INFO - Getting opened files for : svchost.exe(15216)
+2024-09-15 16:20:15,124 - FastIR - INFO - Getting opened files for : FastIR_x64.exe(14932)
+2024-09-15 16:20:15,601 - FastIR - INFO - Getting opened files for : conhost.exe(260)
+2024-09-15 16:20:15,898 - FastIR - INFO - Getting opened files for : FastIR_x64.exe(11748)
+2024-09-15 16:20:16,211 - FastIR - INFO - Getting opened files for : SnippingTool.exe(6116)
+2024-09-15 16:20:16,525 - FastIR - INFO - Getting opened files for : VSSVC.exe(13092)
+2024-09-15 16:20:16,901 - FastIR - INFO - Getting opened files for : svchost.exe(20580)
+2024-09-15 16:20:17,237 - FastIR - INFO - Getting opened files for : audiodg.exe(8980)
+2024-09-15 16:20:17,605 - FastIR - WARNING - Could not open handle for PID : 19084
+2024-09-15 16:20:17,605 - FastIR - WARNING - Could not open handle for PID : 22384
+2024-09-15 16:20:17,713 - FastIR - INFO - Getting clipboard contents
+2024-09-15 16:20:17,868 - FastIR - INFO - format 49161 DataObject
+2024-09-15 16:20:17,868 - FastIR - INFO - format 2 ?
+2024-09-15 16:20:17,871 - FastIR - INFO - format 49388 PNG
+2024-09-15 16:20:17,875 - FastIR - INFO - format 49791 CanUploadToCloudClipboard
+2024-09-15 16:20:17,877 - FastIR - INFO - format 49792 CanIncludeInClipboardHistory
+2024-09-15 16:20:17,878 - FastIR - INFO - format 49171 Ole Private Data
+2024-09-15 16:20:17,881 - FastIR - INFO - format 8 ?
+2024-09-15 16:20:17,884 - FastIR - INFO - format 17 ?
+2024-09-15 16:20:18,344 - FastIR - INFO - Extracting custom registry keys
+2024-09-15 16:20:18,348 - FastIR - INFO - Extracting installed components
+2024-09-15 16:20:18,375 - FastIR - INFO - Extracting installer folders
+2024-09-15 16:20:18,806 - FastIR - INFO - Extracting open save MRU
+2024-09-15 16:20:18,861 - FastIR - ERROR - Traceback (most recent call last):
+  File "main.py", line 404, in main
+  File "registry\windows10Users.py", line 12, in csv_open_save_mru
+  File "registry\reg.py", line 603, in _csv_open_save_mru
+  File "registry\reg.py", line 589, in __get_open_save_mru
+com_error: (-2147467259, 'Error no especificado', None, None)
+
+2024-09-15 16:20:18,861 - FastIR - INFO - Extracting recent docs
+2024-09-15 16:20:19,177 - FastIR - INFO - Extracting services
+2024-09-15 16:20:21,367 - FastIR - INFO - Extracting Run MRU
+2024-09-15 16:20:21,367 - FastIR - INFO - Extracting shell bags
+2024-09-15 16:20:25,673 - FastIR - INFO - Extracting startup programs
+2024-09-15 16:20:25,703 - FastIR - INFO - Archive creating: output\2024-09-15_161649\DESKTOP-S7RIDPD_autoruns.zip 
+2024-09-15 16:20:25,703 - FastIR - INFO - Archive created: output\2024-09-15_161649\DESKTOP-S7RIDPD_autoruns.zip 
+2024-09-15 16:20:26,859 - FastIR - INFO - Extracting USB history
+2024-09-15 16:20:26,859 - FastIR - INFO - Extracting user assist
+2024-09-15 16:20:26,907 - FastIR - INFO - Extracting windows values
+2024-09-15 16:20:26,938 - FastIR - INFO - Extracting winlogon values
+2024-09-15 16:20:27,000 - FastIR - INFO - Delete Shadow Copy {7FF75843-2768-4D9B-A507-FE94D16F5C12}
+2024-09-15 16:20:28,595 - FastIR - INFO - Check here D:\Downloads\output\2024-09-15_161649 for yours results
